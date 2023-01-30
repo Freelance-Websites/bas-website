@@ -1,0 +1,23 @@
+{
+  "name": "baaa-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freelance-Websites/baaa-website.git"
+  },
+  "author": "Juan Martín García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freelance-Websites/baaa-website/issues"
+  },
+  "homepage": "https://github.com/Freelance-Websites/baaa-website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
