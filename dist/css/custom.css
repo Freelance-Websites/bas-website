@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Neue Montreal';
+  src: url('../../assets/fonts/neuemontreal-regular-webfont.woff2') format('woff2'),
+    url('../../assets/fonts/neuemontreal-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
