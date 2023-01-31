@@ -5,3 +5,8 @@
   font-weight: normal;
   font-style: normal;
 }
+
+.custom-height {
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+}
