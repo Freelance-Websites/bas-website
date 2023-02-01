@@ -11,7 +11,7 @@ class Header extends HTMLElement {
         </a>
         <ul class="flex items-baseline">
           <li class="pr-2 md:pr-4">
-            <a href="${root ? root : './'}proyectos.html" class="${active === 'contact' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest">
+            <a href="${root ? root : './'}proyectos.html" class="${active === 'projects' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest">
               Proyectos
             </a>
           </li>

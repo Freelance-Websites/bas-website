@@ -1,7 +1,9 @@
 class Footer extends HTMLElement {
   connectedCallback() {
+    const { project } = this.dataset;
+
     this.innerHTML = `
-      <footer class="flex flex-col lg:flex-row items-baseline justify-between px-4">
+      <footer class="flex flex-col lg:flex-row items-baseline justify-between ${project === 'true' ? '' : 'px-4'}">
         <p class="font-sans uppercase text-xs text-gray-900 tracking-widest">
           Copyright &copy; ${new Date().getFullYear()} BA AA.
         </p>

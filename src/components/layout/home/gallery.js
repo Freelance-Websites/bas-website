@@ -134,4 +134,4 @@ class Gallery extends HTMLElement {
   }
 };
 
-customElements.define('custom-gallery', Gallery);
+customElements.define('home-gallery', Gallery);
