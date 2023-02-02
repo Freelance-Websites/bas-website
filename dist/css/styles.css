@@ -613,16 +613,16 @@ video {
   margin-top: 0.25rem;
 }
 
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
 .mr-8 {
   margin-right: 2rem;
 }
 
 .mt-4 {
   margin-top: 1rem;
-}
-
-.mb-2 {
-  margin-bottom: 0.5rem;
 }
 
 .inline-block {
@@ -917,14 +917,14 @@ video {
     padding-top: 3rem;
   }
 
-  .md\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
-
   .md\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
+  }
+
+  .md\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 }
 

@@ -40,7 +40,6 @@ class ProjectSlider extends HTMLElement {
       dynamicEl: imagesData,
       download: false,
       counter: false,
-      // addClass: "custom-lightbox",
       hideScrollbar: true,
       mobileSettings: {
         controls: true,

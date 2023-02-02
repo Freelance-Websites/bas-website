@@ -20,9 +20,7 @@
     <section class="container mx-auto px-4">
       <custom-header data-root="../" data-active="projects"></custom-header>
     </section>
-    <project-hero data-image="../assets/images/projects/estomba/hero" data-extension="jpg" data-title="estomba 1046"
-      data-location="villa ortuzar, ciudad de buenos aires." data-role="proyecto y dirección de obra."
-      data-year="2022 – 2025"></project-hero>
+    <project-hero></project-hero>
     <article class="container mx-auto px-4">
       <ul class="grid grid-cols-1 md:grid-cols-12 md:gap-10 py-8 md:py-16 lg:py-32">
         <li class="md:col-span-5">
@@ -124,10 +122,13 @@
       <custom-footer data-project="true"></custom-footer>
     </section>
   </main>
+  <!-- Data -->
+  <script src="../data/projects.js"></script>
 
   <!-- Scripts -->
   <script src="https://unpkg.com/flickity@2.2/dist/flickity.pkgd.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.4.0/lightgallery.min.js"></script>
+  <script src="../dist/js/populate-project-data.js"></script>
 
   <!-- Components -->
   <script src="../src/components/layout/header.js"></script>
