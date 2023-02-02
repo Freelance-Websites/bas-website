@@ -90,17 +90,35 @@
         </li>
       </ul>
     </article>
-    <section>
+    <section class="group relative">
       <project-slider data-images='[
-          { "url": "../assets/images/projects/estomba/gallery/images/1", "extension": "jpg", "aspect": "video" },
-          { "url": "../assets/images/projects/estomba/gallery/images/2", "extension": "jpg", "aspect": "vertical" },
-          { "url": "../assets/images/projects/estomba/gallery/images/3", "extension": "jpg", "aspect": "square" },
-          { "url": "../assets/images/projects/estomba/gallery/images/4", "extension": "jpg", "aspect": "vertical" },
-          { "url": "../assets/images/projects/estomba/gallery/images/5", "extension": "jpg", "aspect": "vertical" },
-          { "url": "../assets/images/projects/estomba/gallery/images/6", "extension": "jpg", "aspect": "video" },
-          { "url": "../assets/images/projects/estomba/gallery/images/7", "extension": "jpg", "aspect": "video" },
-          { "url": "../assets/images/projects/estomba/gallery/images/8", "extension": "jpg", "aspect": "square" }
-        ]' data-planos-number="6"></project-slider>
+            { "url": "../assets/images/projects/estomba/gallery/planos/1", "extension": "jpg", "aspect": "video", "visible": "false" },
+            { "url": "../assets/images/projects/estomba/gallery/planos/2", "extension": "jpg", "aspect": "video", "visible": "false" },
+            { "url": "../assets/images/projects/estomba/gallery/planos/3", "extension": "jpg", "aspect": "video", "visible": "false" },
+            { "url": "../assets/images/projects/estomba/gallery/planos/4", "extension": "jpg", "aspect": "video", "visible": "false" },
+            { "url": "../assets/images/projects/estomba/gallery/planos/5", "extension": "jpg", "aspect": "video", "visible": "false" },
+            { "url": "../assets/images/projects/estomba/gallery/planos/6", "extension": "jpg", "aspect": "video", "visible": "false" },
+            { "url": "../assets/images/projects/estomba/gallery/images/1", "extension": "jpg", "aspect": "video", "visible": "true" },
+            { "url": "../assets/images/projects/estomba/gallery/images/2", "extension": "jpg", "aspect": "vertical", "visible": "true" },
+            { "url": "../assets/images/projects/estomba/gallery/images/3", "extension": "jpg", "aspect": "square", "visible": "true" },
+            { "url": "../assets/images/projects/estomba/gallery/images/4", "extension": "jpg", "aspect": "vertical", "visible": "true" },
+            { "url": "../assets/images/projects/estomba/gallery/images/5", "extension": "jpg", "aspect": "vertical", "visible": "true" },
+            { "url": "../assets/images/projects/estomba/gallery/images/6", "extension": "jpg", "aspect": "video", "visible": "true" },
+            { "url": "../assets/images/projects/estomba/gallery/images/7", "extension": "jpg", "aspect": "video", "visible": "true" },
+            { "url": "../assets/images/projects/estomba/gallery/images/8", "extension": "jpg", "aspect": "square", "visible": "true" }
+          ]' data-planos-number="6"></project-slider>
+      <button
+        class="absolute right-4 top-4 transition ease-in-out duration-75 opacity-0 group-hover:opacity-100 p-2 rounded-sm bg-white"
+        id="fullscreen-btn">
+        <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path
+            d="M14.6663 2.67331L9.58229 7.75731L8.63952 6.81454L13.7235 1.73054H10.2219V0.397461H15.9994V6.17494H14.6663V2.67331ZM1.33308 14.1216L6.41708 9.03761L7.35985 9.98038L2.27585 15.0644H5.77748V16.3975H0V10.62H1.33308V14.1216Z"
+            fill="#1A1A1A" />
+        </svg>
+      </button>
+    </section>
+    <section class="py-8 md:py-16 lg:py-32">
+      <more-projects></more-projects>
     </section>
     <section class="container mx-auto px-4">
       <custom-footer data-project="true"></custom-footer>
@@ -117,6 +135,7 @@
 
   <script src="../src/components/layout/projects/hero.js"></script>
   <script src="../src/components/layout/projects/slider.js"></script>
+  <script src="../src/components/layout/projects/more-projects.js"></script>
 </body>
 
 </html>

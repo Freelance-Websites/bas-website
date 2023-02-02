@@ -8,18 +8,16 @@ class ProjectSlider extends HTMLElement {
     // Add the markup for it
     this.innerHTML = `
       <section class="carousel" id="slider">
-        ${imagesData.map((image, index) => 
+        ${imagesData.filter(image => image.visible === 'true').map((image, index) => 
           `
-            <div class="carousel-cell mx-5 aspect-${image.aspect} h-80 md:h-[680px]" data-index="${index}">
-              <img
-                src="${image.url}.${image.extension}"
-                srcset="${image.url}.${image.extension} 1x, ${image.url}@2x.${image.extension} 2x"
-                class="w-full h-full object-cover"
-                loading="lazy"
-              />
-            </div>
-          `
-         ).join('')}
+            <img
+              src="${image.url}.${image.extension}"
+              srcset="${image.url}.${image.extension} 1x, ${image.url}@2x.${image.extension} 2x"
+              class="mx-5 aspect-${image.aspect} h-80 md:h-[680px] object-cover"
+              loading="lazy"
+              data-index="${index}"
+            />
+          `).join('')}
       </section>
     `;
 
@@ -55,10 +53,8 @@ class ProjectSlider extends HTMLElement {
     });
 
     // Trigger the modal when clicking on the images
-    const galleryTriggers = document.querySelectorAll('.carousel-cell');
-    galleryTriggers.forEach(trigger => trigger.addEventListener('click', () => {
-      gallery.openGallery(trigger.dataset.index);
-    }))
+    const galleryTrigger = document.querySelector('#fullscreen-btn');
+    galleryTrigger.addEventListener('click', () => gallery.openGallery());
   }
 };
 
