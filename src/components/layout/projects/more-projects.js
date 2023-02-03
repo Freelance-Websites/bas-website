@@ -4,7 +4,7 @@ class MoreProjects extends HTMLElement {
 
     this.innerHTML = `
       <div class="container mx-auto flex items-end justify-between px-4">
-        <h4 class="font-sans text-primary text-2xl md:text-3xl">más proyectos</h4>
+        <h4 class="font-sans text-primary text-2xl md:text-3xl" data-text-en="more projects" data-text-es="más proyectos">más proyectos</h4>
         <!-- Arrow -->
         <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
           class="ml-auto fill-primary mb-2">

@@ -11,19 +11,19 @@ class Header extends HTMLElement {
         </a>
         <ul class="flex items-baseline">
           <li class="pr-2 md:pr-4">
-            <a href="${root ? root : './'}proyectos.html" class="${active === 'projects' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest">
+            <a href="${root ? root : './'}proyectos.html" class="${active === 'projects' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest" data-text-en="Projects" data-text-es="Proyectos">
               Proyectos
             </a>
           </li>
           <li class="pr-2 md:pr-4">
-            <a href="${root ? root : './'}contacto.html" class="${active === 'contact' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest">
+            <a href="${root ? root : './'}contacto.html" class="${active === 'contact' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest" data-text-en="Contact" data-text-es="Contacto">
               Contacto
             </a>
           </li>
           <li>
-            <a href="${root ? root : './'}en/index.html" class="hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest">
+            <button id="language-selector" data-language="EN" class="hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest">
               EN
-            </a>
+            </button>
           </li>
         </ul>
       </header>
