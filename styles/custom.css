@@ -1,0 +1,28 @@
+.custom-height {
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+}
+
+.aspect-vertical {
+  aspect-ratio: 9 / 16;
+}
+
+/* Style fixes for project gallery */
+.lg-toolbar .lg-icon, .lg-show-in .lg-prev, .lg-show-in .lg-next {
+  color: #fff;
+  transition: all ease-in-out .3s;
+}
+
+.lg-toolbar .lg-icon:hover, .lg-show-in .lg-prev:hover, .lg-show-in .lg-next:hover {
+  opacity: .8;
+}
+
+/* Hide scrollbar in horizontal gallery */
+.react-horizontal-scrolling-menu--scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+.react-horizontal-scrolling-menu--scroll-container {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

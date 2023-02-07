@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx tailwindcss -i ./src/styles.css -o ./dist/css/styles.css --watch"
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
@@ -18,6 +21,21 @@
   },
   "homepage": "https://github.com/Freelance-Websites/baaa-website#readme",
   "devDependencies": {
-    "tailwindcss": "^3.2.4"
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.27",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "typescript": "4.9.5"
+  },
+  "dependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-react": "^7.16.7",
+    "frontmatter-markdown-loader": "^3.7.0",
+    "gray-matter": "^4.0.3",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-horizontal-scrolling-menu": "^3.2.3"
   }
 }
