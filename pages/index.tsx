@@ -100,9 +100,9 @@ function onWheel(apiObj: scrollVisibilityApiType, ev: React.WheelEvent): void {
   }
 
   if (ev.deltaY < 0) {
-    apiObj.scrollNext();
-  } else if (ev.deltaY > 0) {
     apiObj.scrollPrev();
+  } else if (ev.deltaY > 0) {
+    apiObj.scrollNext();
   }
 }
 
