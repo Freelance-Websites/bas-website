@@ -31,11 +31,14 @@
   "dependencies": {
     "@babel/core": "^7.17.10",
     "@babel/preset-react": "^7.16.7",
+    "flickity": "^2.3.0",
     "frontmatter-markdown-loader": "^3.7.0",
     "gray-matter": "^4.0.3",
+    "lightgallery": "^2.7.1",
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-flickity-component": "^4.0.1",
     "react-horizontal-scrolling-menu": "^3.2.3",
     "remark": "^14.0.2",
     "remark-html": "^15.0.2"

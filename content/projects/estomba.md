@@ -1,6 +1,6 @@
 ---
 thumbnail: /images/home/estomba.jpg
-heroImage: /images/projects/estomba/hero.jpg
+heroImage: /images/projects/estomba-hero.jpg
 shortTitle: estomba
 longTitle: estomba 1046
 location: villa ortuzar, ciudad de buenos aires.
@@ -9,6 +9,49 @@ year: 2022 – 2025
 order: 1
 associates: Arqs. Alejandro Laurido, Nicolás López.
 collaborators: Agustina Bozzano, Camila Sánchez Goytia.
+sliderImages:
+  - src: /images/projects/estomba-planos-1.jpg
+    visible: false
+    aspect: video
+  - src: /images/projects/estomba-planos-2.jpg
+    visible: false
+    aspect: video
+  - src: /images/projects/estomba-planos-3.jpg
+    visible: false
+    aspect: video
+  - src: /images/projects/estomba-planos-4.jpg
+    visible: false
+    aspect: video
+  - src: /images/projects/estomba-planos-5.jpg
+    visible: false
+    aspect: video
+  - src: /images/projects/estomba-planos-6.jpg
+    visible: false
+    aspect: video
+  - src: /images/projects/estomba-gallery-1.jpg
+    visible: true
+    aspect: square
+  - src: /images/projects/estomba-gallery-2.jpg
+    visible: true
+    aspect: vertical
+  - src: /images/projects/estomba-gallery-3.jpg
+    visible: true
+    aspect: square
+  - src: /images/projects/estomba-gallery-4.jpg
+    visible: true
+    aspect: vertical
+  - src: /images/projects/estomba-gallery-5.jpg
+    visible: true
+    aspect: vertical
+  - src: /images/projects/estomba-gallery-6.jpg
+    visible: true
+    aspect: video
+  - src: /images/projects/estomba-gallery-7.jpg
+    visible: true
+    aspect: video
+  - src: /images/projects/estomba-gallery-8.jpg
+    visible: true
+    aspect: square
 ---
 
 El terreno de Estomba está situado en un barrio de baja densidad, en el cual predominan viviendas unifamiliares y algunos edificios de vivienda colectiva de baja escala. Sus medidas son acotadas, con solo 17.32m de profundidad y ancho de 8.61m. Con la modificación del Código Urbano y la posibilidad de mayor densidad el proyecto se plantea como un edificio compacto, de mediana densificación: 5 pisos que ocupan el total de la franja edificable, 2 retiros, el núcleo de circulación completa la profundidad total del lote.

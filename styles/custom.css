@@ -7,7 +7,11 @@
   aspect-ratio: 9 / 16;
 }
 
-/* Style fixes for project gallery */
+/* Style fixes for project slider and gallery */
+.flickity-viewport, .carousel {
+  outline: none;
+}
+
 .lg-toolbar .lg-icon, .lg-show-in .lg-prev, .lg-show-in .lg-next {
   color: #fff;
   transition: all ease-in-out .3s;
@@ -23,6 +27,6 @@
 }
 
 .react-horizontal-scrolling-menu--scroll-container {
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }

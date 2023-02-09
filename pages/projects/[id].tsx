@@ -6,6 +6,7 @@ import Footer from "../../components/Footer";
 
 import Hero from "../../components/projects/Hero";
 import Article from "../../components/projects/Article";
+import Slider from "../../components/projects/Slider";
 
 import { getCollectionIds, getCollectionById } from '../../lib/collections';
 
@@ -36,6 +37,10 @@ export default function Projects({ projectData }) {
           secondColumn={secondHalfArray}
           associates={projectData.associates}
           collaborators={projectData.collaborators}
+        />
+        <Slider
+          images={projectData.sliderImages}
+          alt={projectData.longTitle}
         />
         <Footer isProject={true} />
       </main>
