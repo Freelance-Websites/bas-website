@@ -12,6 +12,10 @@
   outline: none;
 }
 
+.lg-icon {
+  background-color: transparent;
+}
+
 .lg-toolbar .lg-icon, .lg-show-in .lg-prev, .lg-show-in .lg-next {
   color: #fff;
   transition: all ease-in-out .3s;

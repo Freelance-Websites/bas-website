@@ -40,12 +40,6 @@ const Slider = ({ images, alt }) => {
           controls: true,
           showCloseIcon: true
         }}
-        nextHtml={
-          `<svg clip-rule="evenodd" fill-rule="evenodd" stroke-miterlimit="10" viewBox="0 0 180 67" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path d="m-28.707 0h28.707" stroke-width=".63" transform="matrix(-5.3265933249 0 0 2.66667 13.393503 33.0929874)" /><path d="m-8.645-3.691c2.701-2.82 7.276-2.82 10.22 0" transform="matrix(-1.84461297243 1.92575440719 1.92575440719 1.84461297243 156.5403486 56.5330167)" /><path d="m-8.645 3.691c2.701 2.82 7.276 2.82 10.22 0" transform="matrix(-1.84461297243 -1.92575440719 -1.92575440719 1.84461297243 156.5403486 9.6262914)" /></g></svg>`
-        }
-        prevHtml={
-          `<svg clip-rule="evenodd" fill-rule="evenodd" stroke-miterlimit="10" viewBox="0 0 180 67" xmlns="http://www.w3.org/2000/svg"><g fill="none"><path d="m-28.707 0h28.707" stroke-width=".63" transform="matrix(-5.3265933249 0 0 2.66667 13.393503 33.0929874)" /><path d="m-8.645-3.691c2.701-2.82 7.276-2.82 10.22 0" transform="matrix(-1.84461297243 1.92575440719 1.92575440719 1.84461297243 156.5403486 56.5330167)" /><path d="m-8.645 3.691c2.701 2.82 7.276 2.82 10.22 0" transform="matrix(-1.84461297243 -1.92575440719 -1.92575440719 1.84461297243 156.5403486 9.6262914)" /></g></svg>`
-        }
       >
         <Flickity
           className={'carousel'}
