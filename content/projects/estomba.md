@@ -1,10 +1,13 @@
 ---
 thumbnail: /images/home/estomba.jpg
 heroImage: /images/projects/estomba-hero.jpg
-shortTitle: estomba
-longTitle: estomba 1046
-location: villa ortuzar, ciudad de buenos aires.
-role: proyecto y dirección de obra.
+shortTitleEsp: edificio estomba
+shortTitleEng: estomba building
+address: estomba 1046
+locationEsp: villa ortuzar, ciudad de buenos aires.
+locationEng: villa ortuzar, buenos aires city.
+roleEsp: proyecto y dirección de obra.
+roleEng: project and construction management.
 year: 2022 – 2025
 order: 1
 associates: Arqs. Alejandro Laurido, Nicolás López.
