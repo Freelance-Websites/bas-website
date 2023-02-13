@@ -11,17 +11,17 @@ const Header = ({ active, activeLanguage, changeLanguage }) => {
       <ul className="flex items-baseline">
         <li className="pr-2 md:pr-4">
           <Link href="/projects" className={`${active === 'projects' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest`}>
-            {activeLanguage === 'EN' ? 'Proyectos' : 'Projects'}
+            {activeLanguage === 'ES' ? 'Proyectos' : 'Projects'}
           </Link>
         </li>
         <li className="pr-2 md:pr-4">
           <Link href="/contact" className={`${active === 'contact' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest`} data-text-en="Contact" data-text-es="Contacto">
-            {activeLanguage === 'EN' ? 'Contacto' : 'Contact'}
+            {activeLanguage === 'ES' ? 'Contacto' : 'Contact'}
           </Link>
         </li>
         <li>
           <button onClick={() => changeLanguage(activeLanguage === 'EN' ? 'ES' : 'EN')} data-language={activeLanguage} className="hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest">
-            {activeLanguage === 'EN' ? 'ES' : 'EN'}
+            {activeLanguage === 'ES' ? 'EN' : 'ES'}
           </button>
         </li>
       </ul>
