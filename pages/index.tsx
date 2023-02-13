@@ -75,7 +75,7 @@ export default function Homepage({ projectsData }) {
                   <Link href={`/projects/${project.id}`} className="group">
                     <Image
                       src={project.thumbnail}
-                      alt={project.shortTitle}
+                      alt={language === 'ES' ? project.shortTitleEsp : project.shortTitleEng}
                       width={752}
                       height={940}
                       className="group-hover:opacity-90 transition ease-in-out duration-100"
@@ -84,7 +84,7 @@ export default function Homepage({ projectsData }) {
                     <h2
                       className="text-xl md:text-2xl mt-4 md:mt-6 text-gray-900 group-hover:opacity-90 transition ease-in-out duration-100"
                     >
-                      {project.shortTitle}
+                      {language === 'ES' ? project.shortTitleEsp : project.shortTitleEng}
                     </h2>
                   </Link>
                 </div>

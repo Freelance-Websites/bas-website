@@ -40,12 +40,12 @@ export default function Projects({ projectData }) {
         </section>
         <Hero
           heroImage={projectData.heroImage}
-          shortTitle={projectData.shortTitle}
-          longTitle={projectData.longTitle}
-          location={projectData.location}
-          role={projectData.role}
+          shortTitle={language === 'ES' ? projectData.shortTitleEsp : projectData.shortTitleEng}
+          address={projectData.address}
+          location={language === 'ES' ? projectData.locationEsp : projectData.locationEng}
+          role={language === 'ES' ? projectData.roleEsp : projectData.roleEng}
           year={projectData.year}
-          status={projectData.status ? projectData.status : null}
+          status={language === 'ES' ? projectData.statusEsp ? projectData.statusEsp : projectData.statusEng : null}
         />
         <Article
           firstColumn={firstHalfArray}
@@ -55,7 +55,7 @@ export default function Projects({ projectData }) {
         />
         <Slider
           images={projectData.sliderImages}
-          alt={projectData.longTitle}
+          alt={projectData.address}
         />
         <Footer isProject={true} />
       </main>
