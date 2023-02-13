@@ -66,3 +66,7 @@ Por otro lado, la relación con la ciudad del volumen construido se propone con 
 Los servicios comunes y circulaciones fueron proyectados minuciosamente priorizando la economía de recursos y el fácil mantenimiento de lo construído. Es decir, en planta baja se ubican dos cocheras privadas y los servicios mínimos exigidos por la reglamentación.
 
 En el primer piso se accede a los espacios de estar, cocina y lavadero de los departamentos tipo casa que ventilan al frente; los dormitorios con jardín privados se ubican en la planta baja. El resto de las tipologías tienen la misma lógica organizativa, los espacios de estar al frente, en relación a la calle, el límite público; los dormitorios al contrafrente, con más privacidad y menos ruido.
+
+----
+
+ENG
