@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 const Hero = ({ 
   shortTitle,
-  longTitle,
+  address,
   location,
   role,
   status,
@@ -22,7 +22,7 @@ const Hero = ({
       </div>
       <ul className="container mx-auto flex flex-col md:flex-row justify-between items-baseline px-4 pt-4 md:pt-12">
         <li>
-          <h1 className="font-sans text-primary text-2xl md:text-3xl mb-2">{longTitle}</h1>
+          <h1 className="font-sans text-primary text-2xl md:text-3xl mb-2">{address}</h1>
           <p className="font-sans text-primary text-lg leading-tight">{location}</p>
           <p className="font-sans text-primary text-lg leading-tight">{role}</p>
           {status ?
