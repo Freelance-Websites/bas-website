@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 
 import CustomHead from "../../components/Head";
 import Header from "../../components/Header";
@@ -16,12 +16,27 @@ export default function Projects({ projectData }) {
   const firstHalfArray = contentArray.slice(0, half);
   const secondHalfArray = contentArray.slice(half, contentArray.length);
 
+  const [language, setLanguage] = useState();
+  const changeLanguage = (lang) => {
+    setLanguage(lang);
+    window.localStorage.setItem('language', lang);
+  }
+
+  useEffect(() => {
+    const storedLanguage = window.localStorage.getItem('language');
+    changeLanguage(storedLanguage ? storedLanguage : 'ES')
+  }, []);
+
   return (
     <>
       <CustomHead pageTitle={`Proyectos`} />
       <main className="py-4 md:py-8">
         <section className="container mx-auto px-4">
-          <Header active="projects" />
+          <Header
+            active="projects"
+            activeLanguage={language}
+            changeLanguage={changeLanguage}
+          />
         </section>
         <Hero
           heroImage={projectData.heroImage}

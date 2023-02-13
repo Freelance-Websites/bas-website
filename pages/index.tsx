@@ -1,5 +1,4 @@
-import React from "react";
-import { useEffect } from 'react';
+import React, { useState, useEffect } from "react";
 import Link from 'next/link';
 import Image from 'next/image';
 import { ScrollMenu, VisibilityContext } from "react-horizontal-scrolling-menu";
@@ -20,6 +19,12 @@ export default function Homepage({ projectsData }) {
   const {
     pageTitle
   } = attributes;
+  const [language, setLanguage] = useState();
+
+  const changeLanguage = (lang) => {
+    setLanguage(lang);
+    window.localStorage.setItem('language', lang);
+  }
 
   const { disableScroll, enableScroll } = usePreventBodyScroll();
   
@@ -40,13 +45,20 @@ export default function Homepage({ projectsData }) {
 
   useEffect(() => {
     updateWindowHeight();
+
+    const storedLanguage = window.localStorage.getItem('language');
+    changeLanguage(storedLanguage ? storedLanguage : 'ES')
   }, []);
 
   return (
     <>
       <CustomHead pageTitle={pageTitle} />
       <main className="container mx-auto px-4 py-4 md:py-8 custom-height relative">
-        <Header active="home" />
+        <Header
+          active="home"
+          activeLanguage={language}
+          changeLanguage={changeLanguage}
+        />
         <article className="py-16 lg:py-8 2xl:pt-16">
           <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
             className="ml-auto fill-primary mb-8 ">
