@@ -11,14 +11,9 @@ import Footer from '../components/Footer';
 
 import { getAllCollections } from "../lib/collections";
 
-import { attributes } from "../content/home.md";
-
 type scrollVisibilityApiType = React.ContextType<typeof VisibilityContext>;
 
 export default function Homepage({ projectsData }) {
-  const {
-    pageTitle
-  } = attributes;
   const [language, setLanguage] = useState();
 
   const changeLanguage = (lang) => {
@@ -52,7 +47,7 @@ export default function Homepage({ projectsData }) {
 
   return (
     <>
-      <CustomHead pageTitle={pageTitle} />
+      <CustomHead pageTitle="Home" />
       <main className="container mx-auto px-4 py-4 md:py-8 custom-height relative">
         <Header
           active="home"
