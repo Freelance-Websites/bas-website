@@ -73,10 +73,10 @@ export default function Projects({ projectData }) {
           associates={projectData.associates}
           collaborators={projectData.collaborators}
         />
-        {/* <Slider
+        <Slider
           images={projectData.sliderImages}
           alt={projectData.address}
-        /> */}
+        />
         <Footer isProject={true} />
       </main>
     </>

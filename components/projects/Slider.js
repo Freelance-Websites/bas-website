@@ -46,7 +46,6 @@ const Slider = ({ images, alt }) => {
           elementType={'div'}
           options={flickityOptions}
           disableImagesLoaded={false}
-          static
         >
           {images.filter(image => image.visible === true).map((image, index) => 
             <img
