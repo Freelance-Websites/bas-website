@@ -1,0 +1,12 @@
+backend:
+  name: git-gateway
+  branch: main
+  media_folder: "images"
+  collections:
+    - name: "projects"
+      label: "Projects"
+      folder: "content/projects"
+      create: true
+      fields:
+        - {label: "Thumbnail Image", name: "thumbnail", widget: "image"}
+        - {label: "Hero Image", name: "heroImage", widget: "image"}

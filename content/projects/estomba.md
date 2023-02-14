@@ -1,6 +1,6 @@
 ---
-thumbnail: /images/home/estomba.jpg
-heroImage: /images/projects/estomba-hero.jpg
+thumbnail: /images/estomba-thumbnail.jpg
+heroImage: /images/estomba-hero.jpg
 shortTitleEsp: edificio estomba
 shortTitleEng: estomba building
 address: estomba 1046
@@ -13,46 +13,46 @@ order: 1
 associates: Arqs. Alejandro Laurido, Nicolás López.
 collaborators: Agustina Bozzano, Camila Sánchez Goytia.
 sliderImages:
-  - src: /images/projects/estomba-planos-1.jpg
+  - src: /images/estomba-planos-1.jpg
     visible: false
     aspect: video
-  - src: /images/projects/estomba-planos-2.jpg
+  - src: /images/estomba-planos-2.jpg
     visible: false
     aspect: video
-  - src: /images/projects/estomba-planos-3.jpg
+  - src: /images/estomba-planos-3.jpg
     visible: false
     aspect: video
-  - src: /images/projects/estomba-planos-4.jpg
+  - src: /images/estomba-planos-4.jpg
     visible: false
     aspect: video
-  - src: /images/projects/estomba-planos-5.jpg
+  - src: /images/estomba-planos-5.jpg
     visible: false
     aspect: video
-  - src: /images/projects/estomba-planos-6.jpg
+  - src: /images/estomba-planos-6.jpg
     visible: false
     aspect: video
-  - src: /images/projects/estomba-gallery-1.jpg
+  - src: /images/estomba-gallery-1.jpg
     visible: true
     aspect: square
-  - src: /images/projects/estomba-gallery-2.jpg
+  - src: /images/estomba-gallery-2.jpg
     visible: true
     aspect: vertical
-  - src: /images/projects/estomba-gallery-3.jpg
+  - src: /images/estomba-gallery-3.jpg
     visible: true
     aspect: square
-  - src: /images/projects/estomba-gallery-4.jpg
+  - src: /images/estomba-gallery-4.jpg
     visible: true
     aspect: vertical
-  - src: /images/projects/estomba-gallery-5.jpg
+  - src: /images/estomba-gallery-5.jpg
     visible: true
     aspect: vertical
-  - src: /images/projects/estomba-gallery-6.jpg
+  - src: /images/estomba-gallery-6.jpg
     visible: true
     aspect: video
-  - src: /images/projects/estomba-gallery-7.jpg
+  - src: /images/estomba-gallery-7.jpg
     visible: true
     aspect: video
-  - src: /images/projects/estomba-gallery-8.jpg
+  - src: /images/estomba-gallery-8.jpg
     visible: true
     aspect: square
 ---

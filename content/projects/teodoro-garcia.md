@@ -1,10 +1,14 @@
 ---
-thumbnail: /images/home/teodoro-garcia.jpg
-shortTitle: teodoro garcía
-longTitle: teodoro garcía 3724
-location: chacarita, ciudad de buenos aires.
-role: proyecto y dirección de obra.
-status: en obra.
+thumbnail: /images/teodoro-garcia-thumbnail.jpg
+shortTitleEsp: edificio teodoro garcía
+shortTitleEng: teodoro garcía building
+address: teodoro garcía 3724
+locationEsp: chacarita, ciudad de buenos aires.
+locationEng: chacarita, buenos aires city.
+roleEsp: proyecto y dirección de obra.
+roleEng: projecto and construction management.
+statusEsp: en obra.
+statusEng: under construction.
 year: 2018 – 2022
 order: 5
 ---
