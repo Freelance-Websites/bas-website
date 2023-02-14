@@ -28,11 +28,13 @@ export default function Projects({ projectData }) {
 
     const languageContent = lang === 'ES' ? spanishContent : englishContent;
     const contentArray = languageContent.match(/<p>(.*?)<\/p>/g);
-    const half = Math.round(contentArray.length / 2);
-    const firstHalfArray = contentArray.slice(0, half);
-    const secondHalfArray = contentArray.slice(half, contentArray.length);
-    const fullArray = firstHalfArray.concat(secondHalfArray);
-    setContent(fullArray);
+    if(contentArray) {
+      const half = Math.round(contentArray.length / 2);
+      const firstHalfArray = contentArray.slice(0, half);
+      const secondHalfArray = contentArray.slice(half, contentArray.length);
+      const fullArray = firstHalfArray.concat(secondHalfArray);
+      setContent(fullArray);
+    }
   }
 
   
@@ -61,7 +63,7 @@ export default function Projects({ projectData }) {
         <Hero
           heroImage={projectData.heroImage}
           shortTitle={language === 'ES' ? projectData.shortTitleEsp : projectData.shortTitleEng}
-          address={projectData.address}
+          address={projectData.address ? projectData.address : language === 'ES' ? projectData.shortTitleEsp : projectData.shortTitleEng}
           location={language === 'ES' ? projectData.locationEsp : projectData.locationEng}
           role={language === 'ES' ? projectData.roleEsp : projectData.roleEng}
           year={projectData.year}
