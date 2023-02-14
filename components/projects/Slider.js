@@ -47,7 +47,7 @@ const Slider = ({ images, alt }) => {
           options={flickityOptions}
           disableImagesLoaded={false}
         >
-          {images.filter(image => image.visible === true).map((image, index) => 
+          {images && images.filter(image => image.visible === true).map((image, index) => 
             <img
               src={image.src}
               className={`mx-5 aspect-${image.aspect} h-80 md:h-[680px] object-cover`}
