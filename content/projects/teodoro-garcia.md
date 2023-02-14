@@ -1,4 +1,5 @@
 ---
+title: teodoro garcía
 thumbnail: /images/teodoro-garcia-thumbnail.jpg
 shortTitleEsp: edificio teodoro garcía
 shortTitleEng: teodoro garcía building

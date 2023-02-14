@@ -1,4 +1,5 @@
 ---
+title: estomba
 thumbnail: /images/estomba-thumbnail.jpg
 heroImage: /images/estomba-hero.jpg
 shortTitleEsp: edificio estomba

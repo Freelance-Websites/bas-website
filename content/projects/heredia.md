@@ -1,4 +1,5 @@
 ---
+title: heredia
 thumbnail: /images/heredia-thumbnail.jpg
 shortTitleEsp: casa heredia
 shortTitleEng: heredia house

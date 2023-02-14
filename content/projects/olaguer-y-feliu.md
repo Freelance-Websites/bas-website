@@ -1,4 +1,5 @@
 ---
+title: olaguer y feliú
 thumbnail: /images/olaguer-y-feliu-thumbnail.jpg
 shortTitleEsp: edificio olaguer y feliú
 shortTitleEng: olaguer y feliú building

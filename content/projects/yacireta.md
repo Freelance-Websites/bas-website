@@ -1,4 +1,5 @@
 ---
+title: yaciretá
 thumbnail: /images/yacireta-thumbnail.jpg
 shortTitleEsp: pabellón yaciretá - tecnópolis
 shortTitleEng: yaciretá pavilion - tecnópolis

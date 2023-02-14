@@ -1,4 +1,5 @@
 ---
+title: comodoro rivadavia
 thumbnail: /images/comodoro-rivadavia-thumbnail.jpg
 shortTitleEsp: ampliación comodoro rivadavia
 shortTitleEng: comodoro rivadavia extension

@@ -1,4 +1,5 @@
 ---
+title: galicia
 thumbnail: /images/galicia-thumbnail.jpg
 shortTitleEsp: edificio galicia
 shortTitleEng: galicia building

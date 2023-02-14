@@ -1,4 +1,5 @@
 ---
+title: oficinas pq
 thumbnail: /images/oficinas-pq-thumbnail.jpg
 shortTitleEsp: oficinas pq
 shortTitleEng: pq offices

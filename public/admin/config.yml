@@ -4,9 +4,38 @@ backend:
 media_folder: "images"
 collections:
   - name: "projects"
-    label: "Projects"
+    label: "Proyectos"
     folder: "content/projects"
     create: true
     fields:
-      - {label: "Thumbnail Image", name: "thumbnail", widget: "image"}
-      - {label: "Hero Image", name: "heroImage", widget: "image"}
+      - {label: "Título", name: "title", widget: "string", hint: "Título para el proyecto. Sólo se muestra en el CMS."}
+      - {label: "Imagen home", name: "thumbnail", widget: "image", allow_multiple: false, choose_url: false, hint: "La imagen que se muestra en la home y la sección Proyectos"}
+      - {label: "Imagen proyecto", name: "heroImage", widget: "image", allow_multiple: false, choose_url: false, hint: "La imagen que se muestra en la página del proyecto"}
+      - {label: "Título (Español)", name: "shortTitleEsp", widget: "string", hint: "El título del proyecto en español"}
+      - {label: "Título (Inglés)", name: "shortTitleEng", widget: "string", hint: "El título del proyecto en inglés"}
+      - {label: "Dirección", name: "address", widget: "string", hint: "La dirección del proyecto", required: false}
+      - {label: "Barrio (Español)", name: "locationEsp", widget: "string", hint: "El barrio del proyecto en español"}
+      - {label: "Barrio (Inglés)", name: "locationEng", widget: "string", hint: "El barrio del proyecto en inglés"}
+      - {label: "Rol (Español)", name: "roleEsp", widget: "string", hint: "El rol dentro del proyecto, en español"}
+      - {label: "Rol (Inglés)", name: "roleEng", widget: "string", hint: "El rol dentro del proyecto, en inglés"}
+      - {label: "Estado (Español)", name: "statusEsp", widget: "string", hint: "El estado del proyecto, en español", required: false}
+      - {label: "Estado (Inglés)", name: "statusEng", widget: "string", hint: "El estado del proyecto, en inglés", required: false}
+      - {label: "Año", name: "year", widget: "string", hint: "El año del proyecto"}
+      - {label: "Orden del proyecto", name: "order", widget: "number", min: 1, hint: "El orden del proyecto en la home"}
+      - {label: "Asociados", name: "associates", widget: "string", hint: "Arquitectos asociados al proyecto"}
+      - {label: "Colaboradores", name: "collaborators", widget: "string", hint: "Colaboradores en el proyecto"}
+      - label: "Slider de imágenes"
+        name: "sliderImages"
+        widget: "list"
+        allow_add: true
+        fields:
+          - {label: "Imagen", name: "src", widget: "image", allow_multiple: false, choose_url: false, hint: "La imagen propiamente dicha"}
+          - {label: "Visible?", name: "visible", widget: "boolean", required: false, hint: "Si está desactivado, la imagen sólo se muestra en la ventana modal"}
+          - label: "Relación de aspecto"
+            name: "aspect"
+            widget: "select"
+            options:
+              - { label: "Horizontal", value: "video" }
+              - { label: "Cuadrada", value: "square" }
+              - { label: "Vertical", value: "vertical" }
+            hint: "Importante para ajustar los estilos del slider, y que las imágenes no se vean estiradas"
