@@ -50,7 +50,7 @@ const Slider = ({ images, alt }) => {
           {images && images.filter(image => image.visible === true).map((image, index) => 
             <img
               src={image.src}
-              className={`mx-5 aspect-${image.aspect} h-80 md:h-[680px] object-cover`}
+              className={`mx-5 aspect-${image.aspect} h-80 lg:h-[680px] object-cover`}
               key={index}
               alt={alt}
             />

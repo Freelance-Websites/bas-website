@@ -10,7 +10,7 @@ const Header = ({ active, activeLanguage, changeLanguage }) => {
       </Link>
       <ul className="flex items-baseline">
         <li className="pr-2 md:pr-4">
-          <Link href="/projects" className={`${active === 'projects' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest`}>
+          <Link href="/" className={`${active === 'projects' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest`}>
             {activeLanguage === 'ES' ? 'Proyectos' : 'Projects'}
           </Link>
         </li>
