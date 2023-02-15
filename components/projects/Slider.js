@@ -28,7 +28,7 @@ const Slider = ({ images, alt }) => {
   }, []);
 
   return (
-    <section className="group relative">
+    <section className="group relative pb-8 md:pb-16 lg:pb-32">
       <LightGallery
         dynamic={true}
         dynamicEl={images}
