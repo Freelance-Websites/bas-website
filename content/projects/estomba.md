@@ -10,7 +10,7 @@ locationEng: villa ortuzar, buenos aires city.
 roleEsp: proyecto y dirección de obra.
 roleEng: project and construction management.
 year: 2022 – 2025
-order: 1
+order: 2
 associates: Arqs. Alejandro Laurido, Nicolás López.
 collaborators: Agustina Bozzano, Camila Sánchez Goytia.
 sliderImages:

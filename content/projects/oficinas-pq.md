@@ -1,8 +1,8 @@
 ---
 title: oficinas pq
 thumbnail: /images/oficinas-pq-thumbnail.jpg
-shortTitleEsp: oficinas pq
-shortTitleEng: pq offices
+shortTitleEsp: oficinas pq - líbero
+shortTitleEng: pq offices - líbero
 locationEsp: palermo, ciudad de buenos aires.
 locationEng: palermo, buenos aires city.
 roleEsp: proyecto y dirección de obra.

@@ -4,9 +4,7 @@ const Header = ({ active, activeLanguage, changeLanguage }) => {
   return (
     <header className="flex items-baseline justify-between">
       <Link href="/" className="transition ease-in-out duration-100 hover:opacity-70">
-        <svg width="83" height="21" viewBox="0 0 83 21" fill="none" xmlns="http://www.w3.org/2000/svg" className="fill-gray-900">
-          <path d="M15.492 6.02C15.492 2.912 13.028 0.979999 8.94 0.979999H0.876V21H9.5C13.644 21 16.276 18.872 16.276 15.176C16.276 12.18 14.484 10.584 12.384 10.22V10.164C14.036 9.604 15.492 8.484 15.492 6.02ZM3.396 9.352V3.22H9.612C11.908 3.22 12.972 4.48 12.972 6.3C12.972 8.12 12.188 9.352 9.332 9.352H3.396ZM3.396 11.592H10.312C12.412 11.592 13.756 13.02 13.756 15.176C13.756 17.052 12.972 18.76 9.752 18.76H3.396V11.592ZM31.8875 15.988L33.6515 21H36.2555L28.8915 0.979999H26.0915L18.6995 21H21.3035L23.0675 15.988H31.8875ZM23.9075 13.748L27.4635 3.304H27.5195L31.0755 13.748H23.9075ZM58.4219 15.988L60.1859 21H62.7899L55.4259 0.979999H52.6259L45.2339 21H47.8379L49.6019 15.988H58.4219ZM50.4419 13.748L53.9979 3.304H54.0539L57.6099 13.748H50.4419ZM77.9508 15.988L79.7148 21H82.3188L74.9548 0.979999H72.1548L64.7628 21H67.3668L69.1308 15.988H77.9508ZM69.9708 13.748L73.5268 3.304H73.5828L77.1388 13.748H69.9708Z" />
-        </svg>
+        <svg fill="none" height="22" viewBox="0 0 55 22" width="55" xmlns="http://www.w3.org/2000/svg" className="fill-gray-900"><g><path d="m15.492 6.02001c0 2.464-1.456 3.584-3.108 4.14399v.056c2.1.364 3.892 1.96 3.892 4.956 0 3.696-2.632 5.824-6.77602 5.824h-8.624003v-20.019988h8.064003c4.08802 0 6.55202 1.931998 6.55202 5.039998zm-12.09602 3.332h5.936c2.85602 0 3.64002-1.232 3.64002-3.052s-1.064-3.08-3.36002-3.08h-6.216zm0 2.23999v7.168h6.356c3.22002 0 4.00402-1.708 4.00402-3.584 0-2.156-1.344-3.584-3.444-3.584z"/><path d="m31.8875 15.988h-8.82l-1.764 5.012h-2.604l7.392-20.019988h2.8l7.364 20.019988h-2.604zm-7.98-2.24h7.168l-3.556-10.44399h-.056z"/><path d="m46.747 9.32401c4.508 1.11999 7.448 1.87599 7.448 6.43999 0 2.912-2.156 5.628-7.224 5.628-4.732 0-8.4-2.52-8.68-7.112h2.52c.28 2.744 1.96 4.872 6.16 4.872 3.472 0 4.704-1.596 4.704-3.388 0-2.744-1.484-3.248-5.964-4.284-2.996-.7-6.58-1.73599-6.58-5.62799 0-3.164 2.436-5.263997 6.86-5.263997 4.256 0 7.224 2.183997 7.56 6.327997h-2.52c-.364-2.688-1.876-4.088-5.04-4.088-2.828 0-4.34 1.092-4.34 2.744 0 2.66 2.156 3.024 5.096 3.752z"/></g></svg>
       </Link>
       <ul className="flex items-baseline">
         <li className="pr-2 md:pr-4">
@@ -14,16 +12,16 @@ const Header = ({ active, activeLanguage, changeLanguage }) => {
             {activeLanguage === 'ES' ? 'Proyectos' : 'Projects'}
           </Link>
         </li>
-        <li className="pr-2 md:pr-4">
+        <li>
           <Link href="/contact" className={`${active === 'contact' ? 'underline' : ''} hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest`} data-text-en="Contact" data-text-es="Contacto">
             {activeLanguage === 'ES' ? 'Contacto' : 'Contact'}
           </Link>
         </li>
-        <li>
+        {/* <li>
           <button onClick={() => changeLanguage(activeLanguage === 'EN' ? 'ES' : 'EN')} data-language={activeLanguage} className="hover:underline underline-offset-4 font-sans uppercase text-xs text-gray-900 tracking-widest">
             {activeLanguage === 'ES' ? 'EN' : 'ES'}
           </button>
-        </li>
+        </li> */}
       </ul>
     </header>
   );
