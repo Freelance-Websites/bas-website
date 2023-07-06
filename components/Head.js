@@ -1,7 +1,7 @@
 import Head from 'next/head';
 
 const CustomHead = ({ pageTitle }) => {
-  const title = pageTitle ? `${pageTitle} • BA AA` : 'BA AA';
+  const title = pageTitle ? `${pageTitle} • BAS` : 'BAS';
 
   return (
     <Head>
