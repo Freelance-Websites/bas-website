@@ -39,3 +39,19 @@ collections:
               - { label: "Cuadrada", value: "square" }
               - { label: "Vertical", value: "vertical" }
             hint: "Importante para ajustar los estilos del slider, y que las imágenes no se vean estiradas"
+  - name: "pages"
+    label: "Páginas"
+    files:
+      # Contact Structure
+      - label: "Contacto"
+        name: "contact"
+        file: "content/contact.md"
+        fields:
+          - {label: "Título", name: "title", widget: "string", hint: "Título para la página. Sólo se muestra en el CMS."}
+          - {label: "Título (Español)", name: "titleEsp", widget: "string", hint: "El título de la página en español"}
+          - {label: "Título (Inglés)", name: "titleEng", widget: "string", hint: "El título de la página en inglés"}
+          - {label: "Email", name: "emailContent", widget: "string", hint: "El mail de contacto"}
+          - {label: "Teléfono", name: "phoneContent", widget: "string", hint: "El teléfono de contacto"}
+          - {label: "Link de Whatsapp", name: "phoneUrl", widget: "string", hint: "El link para conectar el teléfono a Whatsapp"}
+          - {label: "Dirección", name: "addressContent", widget: "string", hint: "La dirección de las oficinas"}
+          - {label: "Link a Google Maps", name: "addressUrl", widget: "string", hint: "El link de Google Maps para la ubicación de la oficina"}
