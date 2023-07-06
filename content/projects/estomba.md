@@ -1,7 +1,6 @@
 ---
 title: estomba
 thumbnail: /images/estomba-thumbnail.jpg
-heroImage: /images/estomba-hero.jpg
 shortTitleEsp: edificio estomba
 shortTitleEng: estomba building
 address: estomba 1046
@@ -11,27 +10,9 @@ roleEsp: proyecto y dirección de obra.
 roleEng: project and construction management.
 year: 2022 – 2025
 order: 2
-associates: Arqs. Alejandro Laurido, Nicolás López.
+associates: Alejandro Laurido, Nicolás López.
 collaborators: Agustina Bozzano, Camila Sánchez Goytia.
 sliderImages:
-  - src: /images/estomba-planos-1.jpg
-    visible: false
-    aspect: video
-  - src: /images/estomba-planos-2.jpg
-    visible: false
-    aspect: video
-  - src: /images/estomba-planos-3.jpg
-    visible: false
-    aspect: video
-  - src: /images/estomba-planos-4.jpg
-    visible: false
-    aspect: video
-  - src: /images/estomba-planos-5.jpg
-    visible: false
-    aspect: video
-  - src: /images/estomba-planos-6.jpg
-    visible: false
-    aspect: video
   - src: /images/estomba-gallery-1.jpg
     visible: true
     aspect: square
@@ -56,6 +37,24 @@ sliderImages:
   - src: /images/estomba-gallery-8.jpg
     visible: true
     aspect: square
+  - src: /images/estomba-planos-1.jpg
+    visible: true
+    aspect: video
+  - src: /images/estomba-planos-2.jpg
+    visible: true
+    aspect: video
+  - src: /images/estomba-planos-3.jpg
+    visible: true
+    aspect: video
+  - src: /images/estomba-planos-4.jpg
+    visible: true
+    aspect: video
+  - src: /images/estomba-planos-5.jpg
+    visible: true
+    aspect: video
+  - src: /images/estomba-planos-6.jpg
+    visible: true
+    aspect: video
 ---
 
 El terreno de Estomba está situado en un barrio de baja densidad, en el cual predominan viviendas unifamiliares y algunos edificios de vivienda colectiva de baja escala. Sus medidas son acotadas, con solo 17.32m de profundidad y ancho de 8.61m. Con la modificación del Código Urbano y la posibilidad de mayor densidad el proyecto se plantea como un edificio compacto, de mediana densificación: 5 pisos que ocupan el total de la franja edificable, 2 retiros, el núcleo de circulación completa la profundidad total del lote.

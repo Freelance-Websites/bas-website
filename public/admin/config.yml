@@ -10,7 +10,6 @@ collections:
     fields:
       - {label: "Título", name: "title", widget: "string", hint: "Título para el proyecto. Sólo se muestra en el CMS."}
       - {label: "Imagen home", name: "thumbnail", widget: "image", allow_multiple: false, choose_url: false, hint: "La imagen que se muestra en la home y la sección Proyectos"}
-      - {label: "Imagen proyecto", name: "heroImage", widget: "image", allow_multiple: false, choose_url: false, hint: "La imagen que se muestra en la página del proyecto"}
       - {label: "Título (Español)", name: "shortTitleEsp", widget: "string", hint: "El título del proyecto en español"}
       - {label: "Título (Inglés)", name: "shortTitleEng", widget: "string", hint: "El título del proyecto en inglés"}
       - {label: "Dirección", name: "address", widget: "string", hint: "La dirección del proyecto", required: false}

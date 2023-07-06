@@ -51,35 +51,34 @@ export default function Projects({ projectData }) {
 
   return (
     <>
-      <CustomHead pageTitle={`Proyectos`} />
-      <main className="py-4 md:py-8">
+      <CustomHead pageTitle={language === 'ES' ? projectData.shortTitleEsp : projectData.shortTitleEng} />
+      <main className="pt-4 md:pt-8">
         <section className="container mx-auto px-4">
           <Header
             active="projects"
             activeLanguage={language}
             changeLanguage={changeLanguage}
           />
+          <Slider
+            images={projectData.sliderImages}
+            alt={projectData.address}
+          />
+          <Hero
+            shortTitle={language === 'ES' ? projectData.shortTitleEsp : projectData.shortTitleEng}
+            address={projectData.address ? projectData.address : language === 'ES' ? projectData.shortTitleEsp : projectData.shortTitleEng}
+            location={language === 'ES' ? projectData.locationEsp : projectData.locationEng}
+            role={language === 'ES' ? projectData.roleEsp : projectData.roleEng}
+            year={projectData.year}
+            status={language === 'ES' ? projectData.statusEsp ? projectData.statusEsp : projectData.statusEng : null}
+          />
+          <Article
+            firstColumn={content.slice(0, Math.round(content.length / 2))}
+            secondColumn={content.slice(Math.round(content.length / 2), content.length)}
+            associates={projectData.associates}
+            collaborators={projectData.collaborators}
+          />
+          <Footer isProject={false} />
         </section>
-        <Hero
-          heroImage={projectData.heroImage}
-          shortTitle={language === 'ES' ? projectData.shortTitleEsp : projectData.shortTitleEng}
-          address={projectData.address ? projectData.address : language === 'ES' ? projectData.shortTitleEsp : projectData.shortTitleEng}
-          location={language === 'ES' ? projectData.locationEsp : projectData.locationEng}
-          role={language === 'ES' ? projectData.roleEsp : projectData.roleEng}
-          year={projectData.year}
-          status={language === 'ES' ? projectData.statusEsp ? projectData.statusEsp : projectData.statusEng : null}
-        />
-        <Article
-          firstColumn={content.slice(0, Math.round(content.length / 2))}
-          secondColumn={content.slice(Math.round(content.length / 2), content.length)}
-          associates={projectData.associates}
-          collaborators={projectData.collaborators}
-        />
-        <Slider
-          images={projectData.sliderImages}
-          alt={projectData.address}
-        />
-        <Footer isProject={true} />
       </main>
     </>
   );
