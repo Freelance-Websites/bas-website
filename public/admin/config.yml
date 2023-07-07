@@ -23,6 +23,7 @@ collections:
       - {label: "Orden del proyecto", name: "order", widget: "number", min: 1, hint: "El orden del proyecto en la home"}
       - {label: "Asociados", name: "associates", widget: "string", hint: "Arquitectos asociados al proyecto"}
       - {label: "Colaboradores", name: "collaborators", widget: "string", hint: "Colaboradores en el proyecto"}
+      - {label: "Fotos", name: "photos", widget: "string", hint: "Fotografía (Opcional)", required: false}
       - label: "Slider de imágenes"
         name: "sliderImages"
         widget: "list"

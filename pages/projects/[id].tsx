@@ -76,6 +76,7 @@ export default function Projects({ projectData }) {
             secondColumn={content.slice(Math.round(content.length / 2), content.length)}
             associates={projectData.associates}
             collaborators={projectData.collaborators}
+            photos={projectData.photos ? projectData.photos : null}
           />
           <Footer isProject={false} />
         </section>
