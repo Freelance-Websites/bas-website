@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import CustomHead from '../components/Head';
 import Header from '../components/Header';
 
-import { attributes } from "../content/contact.md";
+import { attributes } from '../content/contact.md';
 
 export default function Contact() {
   const {
