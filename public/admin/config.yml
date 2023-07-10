@@ -39,6 +39,7 @@ collections:
               - { label: "Cuadrada", value: "square" }
               - { label: "Vertical", value: "vertical" }
             hint: "Importante para ajustar los estilos del slider, y que las imágenes no se vean estiradas"
+        - {label: "Contenido", name: "body", widget: "markdown", hint: "El contenido para el proyecto"}
   - name: "pages"
     label: "Páginas"
     files:
