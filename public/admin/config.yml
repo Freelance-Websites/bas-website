@@ -24,6 +24,7 @@ collections:
       - {label: "Asociados", name: "associates", widget: "string", hint: "Arquitectos asociados al proyecto"}
       - {label: "Colaboradores", name: "collaborators", widget: "string", hint: "Colaboradores en el proyecto"}
       - {label: "Fotos", name: "photos", widget: "string", hint: "Fotografía (Opcional)", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown", hint: "El contenido para el proyecto"}
       - label: "Slider de imágenes"
         name: "sliderImages"
         widget: "list"
@@ -39,7 +40,6 @@ collections:
               - { label: "Cuadrada", value: "square" }
               - { label: "Vertical", value: "vertical" }
             hint: "Importante para ajustar los estilos del slider, y que las imágenes no se vean estiradas"
-        - {label: "Contenido", name: "body", widget: "markdown", hint: "El contenido para el proyecto"}
   - name: "pages"
     label: "Páginas"
     files:
