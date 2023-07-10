@@ -15,10 +15,10 @@ order: 3
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Alejandro Laurido y Nicolás López.
 sliderImages:
-  - src: /images/comodoro-rivadavia-gallery-1.jpg
+  - src: /images/comodoro-rivadavia-gallery-2.jpg
     visible: true
     aspect: video
-  - src: /images/comodoro-rivadavia-gallery-2.jpg
+  - src: /images/comodoro-rivadavia-gallery-1.jpg
     visible: true
     aspect: video
   - src: /images/comodoro-rivadavia-gallery-3.jpg
@@ -37,7 +37,7 @@ sliderImages:
     visible: true
     aspect: video
   - src: /images/comodoro-rivadavia-planos-2.jpg
-    visible: true
+    visible: false
     aspect: video
   - src: /images/comodoro-rivadavia-planos-3.jpg
     visible: true
