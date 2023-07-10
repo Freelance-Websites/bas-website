@@ -38,7 +38,7 @@ export default function Contact() {
           activeLanguage={language}
           changeLanguage={changeLanguage}
         />
-        <main className="h-screen flex items-end">
+        <main className="flex items-end">
           <section className="bottom-4 lg:bottom-16 absolute">
             <h1 className="font-sans uppercase text-xs text-gray-900 tracking-widest" data-text-en={titleEng} data-text-es={titleEsp}>
               {language === 'ES' ? titleEsp : titleEng}
