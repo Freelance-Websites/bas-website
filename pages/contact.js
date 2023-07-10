@@ -48,15 +48,15 @@ export default function Contact() {
   return (
     <>
       <CustomHead pageTitle={language === 'ES' ? titleEsp : titleEng} />
-      <main className="container mx-auto px-4 py-4 md:py-8 custom-height relative overflow-y-hidden">
+      <main className="container mx-auto px-4 py-4 md:py-8 custom-height relative">
         <Header
           active="contact"
           activeLanguage={language}
           changeLanguage={changeLanguage}
         />
-        <main className="flex items-end absolute bottom-8 md:bottom-16">
-          <section>
-            <h1 className="font-sans uppercase text-xs text-gray-900 tracking-widest" data-text-en={titleEng} data-text-es={titleEsp}>
+          <section className="flex items-end absolute bottom-8 md:bottom-16">
+            <div>
+              <h1 className="font-sans uppercase text-xs text-gray-900 tracking-widest" data-text-en={titleEng} data-text-es={titleEsp}>
               {language === 'ES' ? titleEsp : titleEng}
             </h1>
             <ul className="text-md mt-2 text-gray-900">
@@ -76,8 +76,8 @@ export default function Contact() {
                 </a>
               </li>
             </ul>
+            </div>
           </section>
-        </main>
       </main>
     </>
   );
