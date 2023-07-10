@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 
 import CustomHead from '../components/Head';
 import Header from '../components/Header';
@@ -15,11 +15,27 @@ export default function Homepage({ projectsData }) {
     window.localStorage.setItem('language', lang);
   }
 
-  // Comment for now since we dont have EN
-  // useEffect(() => {
-  //   const storedLanguage = window.localStorage.getItem('language');
-  //   changeLanguage(storedLanguage ? storedLanguage : 'ES');
-  // }, []);
+  const updateViewportHeight = () => {
+    // First we get the viewport height and we multiple it by 1% to get a value for a vh unit
+    let vh = window.innerHeight * 0.01;
+
+    // Then we set the value in the --vh custom property to the root of the document
+    document.documentElement.style.setProperty('--vh', `${vh}px`);
+  }
+
+  useEffect(() => {
+    // Comment for now since we dont have EN language
+    //   const storedLanguage = window.localStorage.getItem('language');
+    //   changeLanguage(storedLanguage ? storedLanguage : 'ES');
+
+    updateViewportHeight();
+    window.addEventListener('resize', () => updateViewportHeight());
+
+    // Cleanup
+    return () => {
+      document.removeEventListener('resize', updateViewportHeight);
+    }
+  }, []);
 
   return (
     <>
