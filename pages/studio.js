@@ -3,11 +3,10 @@ import React, { useState, useEffect } from "react";
 import CustomHead from '../components/Head';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import Card from '../components/projects/Card';
 
-import { getAllCollections } from "../lib/collections";
+import { getStudioData } from '../lib/studio';
 
-export default function Homepage({ projectsData }) {
+export default function Studio({ studioData }) {
   const [language, setLanguage] = useState('ES');
 
   const changeLanguage = (lang) => {
@@ -39,34 +38,31 @@ export default function Homepage({ projectsData }) {
 
   return (
     <>
-      <CustomHead pageTitle="Home" />
+      <CustomHead pageTitle={language === 'ES' ? studioData.titleEsp : studioData.titleEng} />
       <main className="container mx-auto px-4 py-4 md:py-8 custom-height relative">
         <Header
-          active="home"
+          active="studio"
           activeLanguage={language}
           changeLanguage={changeLanguage}
         />
-        <ul className="py-4 md:py-8 lg:py-16 xl:py-32 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-x-8 lg:gap-x-12 lg:gap-y-4">
-          {projectsData.sort((projectA, projectB) => projectA.order > projectB.order ? 1 : -1).map((project, index) => 
-            <li key={index}>
-              <Card
-                project={project}
-                activeLanguage={language}
-              />
-            </li>
-          )}
-        </ul>
-        <Footer />
+          <section className="py-4 md:py-8 lg:py-16 xl:py-32 grid grid-cols-1 lg:grid-cols-2 gap-4 md:gap-8 lg:gap-12">
+              <h1 className="md:col-span-2 pt-8 md:pt-0 font-sans uppercase text-xs text-gray-900 tracking-widest" data-text-en={studioData.titleEng} data-text-es={studioData.titleEsp}>
+                {language === 'ES' ? studioData.titleEsp : studioData.titleEng}
+              </h1>
+              <div className="grid grid-cols-1 gap-4 text-gray-900 text-md leading-relaxed text-justify" dangerouslySetInnerHTML={{ __html: studioData.contentHtml }} />
+          </section>
+          <Footer classes={"md:absolute md:left-0 md:bottom-0 md:w-full md:px-4"} />
       </main>
     </>
   );
 }
 
-export async function getStaticProps() {
-  const projectsData = getAllCollections("projects");
+export async function getStaticProps({ params }) {
+  const studioData = await getStudioData();
+
   return {
     props: {
-      projectsData,
+      studioData
     }
-  };
-};
+  }
+}

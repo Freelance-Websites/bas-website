@@ -43,6 +43,15 @@ collections:
   - name: "pages"
     label: "Páginas"
     files:
+      # Studio Structure
+      - label: "Estudio"
+        name: "studio"
+        file: "content/studio.md"
+        fields:
+          - {label: "Título", name: "title", widget: "string", hint: "Título para la página. Sólo se muestra en el CMS."}
+          - {label: "Título (Español)", name: "titleEsp", widget: "string", hint: "El título de la página en español"}
+          - {label: "Título (Inglés)", name: "titleEng", widget: "string", hint: "El título de la página en inglés"}
+          - {label: "Contenido", name: "body", widget: "markdown", hint: "El contenido de la página"}
       # Contact Structure
       - label: "Contacto"
         name: "contact"

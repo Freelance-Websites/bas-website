@@ -78,7 +78,7 @@ export default function Projects({ projectData }) {
             collaborators={projectData.collaborators}
             photos={projectData.photos ? projectData.photos : null}
           />
-          <Footer isProject={false} />
+          <Footer />
         </section>
       </main>
     </>
