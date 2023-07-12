@@ -32,14 +32,6 @@ collections:
         fields:
           - {label: "Imagen", name: "src", widget: "image", allow_multiple: false, choose_url: false, hint: "La imagen propiamente dicha"}
           - {label: "Visible?", name: "visible", widget: "boolean", required: false, hint: "Si está desactivado, la imagen sólo se muestra en la ventana modal"}
-          - label: "Relación de aspecto"
-            name: "aspect"
-            widget: "select"
-            options:
-              - { label: "Horizontal", value: "video" }
-              - { label: "Cuadrada", value: "square" }
-              - { label: "Vertical", value: "vertical" }
-            hint: "Importante para ajustar los estilos del slider, y que las imágenes no se vean estiradas"
   - name: "pages"
     label: "Páginas"
     files:

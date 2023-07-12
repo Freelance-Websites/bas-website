@@ -18,28 +18,25 @@ sliderImages:
     aspect: square
   - src: /images/estomba-gallery-2.jpg
     visible: true
-    aspect: vertical
+    aspect: square
   - src: /images/estomba-gallery-3.jpg
     visible: true
-    aspect: square
+    aspect: videp
   - src: /images/estomba-gallery-4.jpg
     visible: true
-    aspect: vertical
+    aspect: video
   - src: /images/estomba-gallery-5.jpg
     visible: true
-    aspect: vertical
+    aspect: video
   - src: /images/estomba-gallery-6.jpg
     visible: true
     aspect: video
   - src: /images/estomba-gallery-7.jpg
     visible: true
-    aspect: video
+    aspect: square
   - src: /images/estomba-gallery-8.jpg
     visible: true
     aspect: square
-  - src: /images/estomba-gallery-9.jpg
-    visible: true
-    aspect: vertical
   - src: /images/estomba-planos-1.jpg
     visible: true
     aspect: video

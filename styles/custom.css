@@ -3,13 +3,33 @@
   height: calc(var(--vh, 1vh) * 100);
 }
 
-.aspect-vertical {
-  aspect-ratio: 9 / 16;
-}
-
 /* Style fixes for project slider and gallery */
 .flickity-viewport, .carousel {
   outline: none;
+}
+
+/* Bullet styling */
+.carousel .flickity-page-dots {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.carousel .dot {
+  width: .5rem;
+  height: .5rem;
+  border-radius: 100%;
+  border: 1px solid rgba(17, 24, 39, .2);
+  margin: 0 .125rem;
+}
+
+.carousel .dot:hover {
+  cursor: pointer;
+}
+
+.carousel .dot.is-selected, .carousel .dot:hover {
+  background-color: rgba(17, 24, 39, .2);
+  border: none;
 }
 
 .lg-icon {

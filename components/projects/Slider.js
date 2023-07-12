@@ -8,9 +8,9 @@ import 'lightgallery/css/lg-zoom.css';
 import 'lightgallery/css/lg-thumbnail.css';
 
 const flickityOptions = {
-  autoPlay: 4000,
-  prevNextButtons: true,
-  pageDots: false,
+  autoPlay: 7000,
+  prevNextButtons: false,
+  pageDots: true,
   wrapAround: true,
   imagesLoaded: true,
   adaptiveHeight: false,
@@ -65,25 +65,14 @@ const Slider = ({ images, alt }) => {
             >
               <img
                 src={image.src}
-                className={`aspect-${image.aspect} object-contain block h-80 lg:h-[680px]`}
+                className={`aspect-${image.aspect} object-contain block h-80 lg:h-[680px] cursor-pointer`}
                 alt={alt}
+                onClick={() => lightGallery.current.openGallery()}
               />
             </div>
           )}
         </Flickity>
       </LightGallery>
-      {/* Fullscreen button */}
-      <button
-        className="absolute right-0 top-8 transition ease-in-out duration-75 opacity-0 group-hover:opacity-100"
-        id="fullscreen-btn"
-        onClick={() => lightGallery.current.openGallery()}
-      >
-        <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path
-            d="M14.6663 2.67331L9.58229 7.75731L8.63952 6.81454L13.7235 1.73054H10.2219V0.397461H15.9994V6.17494H14.6663V2.67331ZM1.33308 14.1216L6.41708 9.03761L7.35985 9.98038L2.27585 15.0644H5.77748V16.3975H0V10.62H1.33308V14.1216Z"
-            fill="#1A1A1A" />
-        </svg>
-      </button>
       {/* Custom prev-next buttons */}
       <button onClick={prevSlide} className="hidden md:block absolute top-1/2">
         <svg fill="none" height="15" viewBox="0 0 16 15" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m6.9581 14.2758 1.34233-1.3274-4.66087-4.66085h11.70814v-1.93892h-11.70814l4.66087-4.65341-1.34233-1.334868-6.95774523 6.957738z" fill="#1a1a1a"/></svg>

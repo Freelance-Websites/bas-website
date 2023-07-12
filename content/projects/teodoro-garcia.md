@@ -8,6 +8,8 @@ locationEsp: chacarita, ciudad de buenos aires.
 locationEng: chacarita, buenos aires city.
 roleEsp: proyecto y dirección de obra.
 roleEng: project and construction management.
+statusEsp: terminado.
+statusEng: finalized.
 year: 2018 – 2022
 order: 5
 associates: Florencia Oszurkiewicz.
@@ -19,25 +21,25 @@ sliderImages:
     aspect: video
   - src: /images/teodoro-garcia-photos-2.jpg
     visible: true
-    aspect: vertical
+    aspect: square
   - src: /images/teodoro-garcia-photos-3.jpg
     visible: true
     aspect: video
   - src: /images/teodoro-garcia-photos-4.jpg
     visible: true
-    aspect: vertical
+    aspect: square
   - src: /images/teodoro-garcia-photos-5.jpg
     visible: true
     aspect: video
   - src: /images/teodoro-garcia-photos-6.jpg
     visible: true
-    aspect: vertical
+    aspect: square
   - src: /images/teodoro-garcia-photos-7.jpg
     visible: true
-    aspect: vertical
+    aspect: square
   - src: /images/teodoro-garcia-photos-8.jpg
     visible: true
-    aspect: vertical
+    aspect: square
   - src: /images/teodoro-garcia-gallery-1.jpg
     visible: true
     aspect: video
@@ -52,10 +54,10 @@ sliderImages:
     aspect: square
   - src: /images/teodoro-garcia-gallery-5.jpg
     visible: true
-    aspect: vertical
+    aspect: square
   - src: /images/teodoro-garcia-gallery-6.jpg
     visible: true
-    aspect: vertical
+    aspect: square
   - src: /images/teodoro-garcia-gallery-7.jpg
     visible: true
     aspect: square
@@ -90,6 +92,12 @@ sliderImages:
     visible: true
     aspect: video
   - src: /images/teodoro-garcia-planos-6.jpg
+    visible: true
+    aspect: video
+  - src: /images/teodoro-garcia-planos-7.jpg
+    visible: true
+    aspect: video
+  - src: /images/teodoro-garcia-planos-8.jpg
     visible: true
     aspect: video
 ---
