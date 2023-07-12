@@ -19,12 +19,12 @@ sliderImages:
     visible: true
     aspect: video
   - src: /images/comodoro-rivadavia-gallery-2.jpg
-    visible: false
-    aspect: video
-  - src: /images/comodoro-rivadavia-gallery-4.jpg
     visible: true
     aspect: video
   - src: /images/comodoro-rivadavia-gallery-3.jpg
+    visible: true
+    aspect: video
+  - src: /images/comodoro-rivadavia-gallery-4.jpg
     visible: true
     aspect: video
   - src: /images/comodoro-rivadavia-gallery-5.jpg
@@ -37,10 +37,10 @@ sliderImages:
     visible: true
     aspect: video
   - src: /images/comodoro-rivadavia-planos-2.jpg
-    visible: false
+    visible: true
     aspect: video
   - src: /images/comodoro-rivadavia-planos-3.jpg
-    visible: false
+    visible: true
     aspect: video
   - src: /images/comodoro-rivadavia-planos-4.jpg
     visible: true
