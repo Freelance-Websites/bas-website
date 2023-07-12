@@ -1,7 +1,7 @@
 const Article = ({ firstColumn, secondColumn, associates, collaborators, photos }) => {
   return (
     <article className="container mx-auto">
-      <ul className="grid grid-cols-1 md:grid-cols-2 gap-0 md:gap-8 lg:gap-12 pt-4 md:pt-8 lg:pt-12 pb-4 md:pb-8 lg:pb-12 xl:pb-24">
+      <ul className="grid grid-cols-1 gap-0 md:gap-8 lg:gap-12 pt-4 md:pt-8 lg:pt-12 pb-4 md:pb-8 lg:pb-12 xl:pb-24">
         <li>
           {firstColumn.map((paragraph, index) =>
             <div
