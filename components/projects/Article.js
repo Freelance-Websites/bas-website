@@ -10,8 +10,6 @@ const Article = ({ firstColumn, secondColumn, associates, collaborators, photos 
               dangerouslySetInnerHTML={{ __html: paragraph }}
             />
           )}
-        </li>
-        <li>
           {secondColumn.map((paragraph, index) =>
             <div
               className="text-gray-900 text-md leading-relaxed text-justify mb-4"
