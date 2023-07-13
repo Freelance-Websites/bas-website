@@ -14,7 +14,7 @@ associates: Florencia Oszurkiewicz.
 collaborators: Alejandro Laurido, Nicolás López, Jerónimo Fortunati, María Sol Bochoeyer.
 sliderImages:
   - src: /images/galicia-gallery-1.jpg
-    aspect: video
+    aspect: square
     visible: true
   - src: /images/galicia-gallery-2.jpg
     aspect: square
