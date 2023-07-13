@@ -31,18 +31,6 @@ sliderImages:
   - src: /images/galicia-gallery-6.jpg
     aspect: square
     visible: true
-  - src: /images/galicia-gallery-7.jpg
-    aspect: square
-    visible: true
-  - src: /images/galicia-gallery-8.jpg
-    aspect: video
-    visible: true
-  - src: /images/galicia-gallery-9.jpg
-    aspect: square
-    visible: true
-  - src: /images/galicia-gallery-10.jpg
-    aspect: square
-    visible: true
   - src: /images/galicia-planos-1.jpg
     aspect: video
     visible: true
