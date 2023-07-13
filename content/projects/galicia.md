@@ -58,9 +58,6 @@ sliderImages:
   - src: /images/galicia-planos-9.jpg
     aspect: video
     visible: true
-  - src: /images/galicia-planos-10.jpg
-    aspect: video
-    visible: true
 ---
 
 El cambio en la normativa que sufrió la ciudad de Buenos Aires en 2019 dio lugar a nuevas formas de densificar el tejido urbano. En este caso, el encargo se apoya en dicha modificación del Código de Planeamiento para buscar intensificar la mixtura de usos en una zona de la ciudad en crecimiento. El proyecto, cuyo programa contempla estudios profesionales, un local comercial de gran superficie, y vivienda, se articula con diferentes tipologías de reducida superficie, dos patios, entre la calle y el corazón de manzana.

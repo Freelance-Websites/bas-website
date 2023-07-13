@@ -39,8 +39,6 @@ sliderImages:
   - src: /images/oficinas-pq-photos-8.jpg
     visible: true
     aspect: square
-    visible: true
-    aspect: square
   - src: /images/oficinas-pq-planos-1.jpg
     visible: true
     aspect: video
