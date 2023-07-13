@@ -48,6 +48,21 @@ sliderImages:
   - src: /images/comodoro-rivadavia-planos-5.jpg
     visible: true
     aspect: video
+  - src: /images/comodoro-rivadavia-planos-6.jpg
+    visible: true
+    aspect: video
+  - src: /images/comodoro-rivadavia-planos-7.jpg
+    visible: true
+    aspect: video
+  - src: /images/comodoro-rivadavia-planos-8.jpg
+    visible: true
+    aspect: video
+  - src: /images/comodoro-rivadavia-planos-9.jpg
+    visible: true
+    aspect: video
+  - src: /images/comodoro-rivadavia-planos-10.jpg
+    visible: true
+    aspect: video
 ---
 
 La intervención intenta maximizar el valor de la unidad, agregando un dormitorio en suite, vestidor y una terraza accesible en el cuarto piso de un edificio nuevo.
