@@ -38,32 +38,10 @@ sliderImages:
     aspect: square
   - src: /images/oficinas-pq-photos-8.jpg
     visible: true
-    aspect: video
-  - src: /images/oficinas-pq-photos-9.jpg
-    visible: true
     aspect: square
-  - src: /images/oficinas-pq-photos-10.jpg
-    visible: true
-    aspect: square
-  - src: /images/oficinas-pq-photos-11.jpg
-    visible: true
-    aspect: square
-  - src: /images/oficinas-pq-photos-12.jpg
-    visible: true
-    aspect: square
-  - src: /images/oficinas-pq-photos-13.jpg
-    visible: true
-    aspect: square
-  - src: /images/oficinas-pq-photos-14.jpg
-    visible: true
-    aspect: square
-  - src: /images/oficinas-pq-photos-15.jpg
     visible: true
     aspect: square
   - src: /images/oficinas-pq-planos-1.jpg
-    visible: true
-    aspect: video
-  - src: /images/oficinas-pq-planos-2.jpg
     visible: true
     aspect: video
 ---
