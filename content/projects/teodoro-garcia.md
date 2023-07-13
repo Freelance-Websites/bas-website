@@ -18,19 +18,19 @@ photos: Fernando Schapochnik
 sliderImages:
   - src: /images/teodoro-garcia-photos-1.jpg
     visible: true
-    aspect: video
+    aspect: square
   - src: /images/teodoro-garcia-photos-2.jpg
     visible: true
-    aspect: square
+    aspect: video
   - src: /images/teodoro-garcia-photos-3.jpg
     visible: true
-    aspect: video
+    aspect: square
   - src: /images/teodoro-garcia-photos-4.jpg
     visible: true
     aspect: square
   - src: /images/teodoro-garcia-photos-5.jpg
     visible: true
-    aspect: video
+    aspect: square
   - src: /images/teodoro-garcia-photos-6.jpg
     visible: true
     aspect: square
@@ -39,43 +39,28 @@ sliderImages:
     aspect: square
   - src: /images/teodoro-garcia-photos-8.jpg
     visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-gallery-1.jpg
+    aspect: video
+  - src: /images/teodoro-garcia-photos-9.jpg
     visible: true
     aspect: video
-  - src: /images/teodoro-garcia-gallery-2.jpg
+  - src: /images/teodoro-garcia-photos-10.jpg
     visible: true
     aspect: square
-  - src: /images/teodoro-garcia-gallery-3.jpg
+  - src: /images/teodoro-garcia-photos-11.jpg
     visible: true
     aspect: square
-  - src: /images/teodoro-garcia-gallery-4.jpg
+  - src: /images/teodoro-garcia-photos-12.jpg
     visible: true
     aspect: square
-  - src: /images/teodoro-garcia-gallery-5.jpg
+  - src: /images/teodoro-garcia-photos-13.jpg
     visible: true
     aspect: square
-  - src: /images/teodoro-garcia-gallery-6.jpg
+  - src: /images/teodoro-garcia-photos-14.jpg
     visible: true
     aspect: square
-  - src: /images/teodoro-garcia-gallery-7.jpg
+  - src: /images/teodoro-garcia-photos-15.jpg
     visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-gallery-8.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-gallery-9.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-gallery-10.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-gallery-11.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-gallery-12.jpg
-    visible: true
-    aspect: square
+    aspect: video
   - src: /images/teodoro-garcia-planos-1.jpg
     visible: true
     aspect: video

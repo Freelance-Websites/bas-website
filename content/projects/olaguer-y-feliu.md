@@ -15,115 +15,52 @@ order: 6
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Luis Leoni, Nicolás López, Julia Chiesa, María Bochoeyer.
 sliderImages:
-  - src: /images/olaguer-y-feliu-photo-1.jpg
+  - src: /images/olaguer-y-feliu-photos-1.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-2.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-3.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-4.jpg
     visible: true
     aspect: video
-  - src: /images/olaguer-y-feliu-photo-2.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-3.jpg
+  - src: /images/olaguer-y-feliu-photos-5.jpg
     visible: true
     aspect: video
-  - src: /images/olaguer-y-feliu-photo-4.jpg
+  - src: /images/olaguer-y-feliu-photos-6.jpg
     visible: true
     aspect: video
-  - src: /images/olaguer-y-feliu-photo-5.jpg
+  - src: /images/olaguer-y-feliu-photos-7.jpg
     visible: true
     aspect: square
-  - src: /images/olaguer-y-feliu-photo-6.jpg
+  - src: /images/olaguer-y-feliu-photos-8.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-9.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-10.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-11.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-12.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-13.jpg
     visible: true
     aspect: video
-  - src: /images/olaguer-y-feliu-photo-7.jpg
+  - src: /images/olaguer-y-feliu-photos-14.jpg
+    visible: true
+    aspect: square
+  - src: /images/olaguer-y-feliu-photos-15.jpg
     visible: true
     aspect: video
-  - src: /images/olaguer-y-feliu-photo-8.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-9.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-10.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-11.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-12.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-13.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-14.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-15.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-16.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-17.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-photo-18.jpg
-    visible: true
-    aspect: video
-  - src: /images/olaguer-y-feliu-gallery-1.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-2.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-3.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-4.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-5.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-6.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-7.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-8.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-9.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-10.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-11.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-12.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-13.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-14.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-15.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-16.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-17.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-18.jpg
-    visible: true
-    aspect: square
-  - src: /images/olaguer-y-feliu-gallery-19.jpg
+  - src: /images/olaguer-y-feliu-photos-16.jpg
     visible: true
     aspect: square
   - src: /images/olaguer-y-feliu-planos-1.jpg
