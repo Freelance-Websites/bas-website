@@ -11,7 +11,7 @@ roleEng: project and construction management.
 statusEsp: terminado.
 statusEng: finalized.
 year: 2018 – 2022
-order: 5
+order: 2
 associates: Florencia Oszurkiewicz.
 collaborators: Julia Chiesa, Agustina Bozzano, Alejandro Laurido, Nicolás López y Jerónimo Fortunati.
 photos: Fernando Schapochnik
