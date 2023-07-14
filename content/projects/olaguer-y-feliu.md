@@ -8,8 +8,8 @@ locationEsp: colegiales, ciudad de buenos aires.
 locationEng: colegiales, buenos aires city.
 roleEsp: proyecto y dirección de obra.
 roleEng: project and construction management.
-statusEsp: terminado.
-statusEng: finalized.
+statusEsp: construido.
+statusEng: built.
 year: 2019 – 2022
 order: 3
 associates: Florencia Oszurkiewicz y Pablo Carracedo.

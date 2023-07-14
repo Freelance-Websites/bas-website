@@ -8,8 +8,8 @@ locationEsp: chacarita, ciudad de buenos aires.
 locationEng: chacarita, buenos aires city.
 roleEsp: proyecto y dirección de obra.
 roleEng: project and construction management.
-statusEsp: terminado.
-statusEng: finalized.
+statusEsp: construido.
+statusEng: built.
 year: 2018 – 2022
 order: 2
 associates: Florencia Oszurkiewicz.
