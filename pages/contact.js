@@ -54,9 +54,8 @@ export default function Contact() {
           activeLanguage={language}
           changeLanguage={changeLanguage}
         />
-          <section className="flex items-end absolute bottom-8 md:bottom-16">
-            <div>
-              <h1 className="font-sans uppercase text-xs text-gray-900 tracking-widest" data-text-en={titleEng} data-text-es={titleEsp}>
+          <section className="py-4 md:py-8 lg:py-16 xl:py-32 grid grid-cols-1 lg:grid-cols-2 gap-4 md:gap-8 lg:gap-12">
+              <h1 className="md:col-span-2 pt-8 md:pt-0 font-sans uppercase text-xs text-gray-900 tracking-widest" data-text-en={titleEng} data-text-es={titleEsp}>
               {language === 'ES' ? titleEsp : titleEng}
             </h1>
             <ul className="text-md mt-2 text-gray-900">
@@ -76,7 +75,6 @@ export default function Contact() {
                 </a>
               </li>
             </ul>
-            </div>
           </section>
       </main>
     </>
