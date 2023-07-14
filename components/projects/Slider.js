@@ -67,7 +67,9 @@ const Slider = ({ images, alt }) => {
                 src={image.src}
                 className={`aspect-${image.aspect} object-contain block h-80 lg:h-[680px] cursor-pointer`}
                 alt={alt}
-                onClick={() => lightGallery.current.openGallery()}
+                onClick={() => {
+                  lightGallery.current.openGallery(index);
+                }}
               />
             </div>
           )}
