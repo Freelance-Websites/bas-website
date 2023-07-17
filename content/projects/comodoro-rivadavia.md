@@ -65,11 +65,11 @@ sliderImages:
     aspect: video
 ---
 
-La intervención intenta maximizar el valor de la unidad, agregando un dormitorio en suite, vestidor y una terraza accesible en el cuarto piso de un edificio nuevo.
+Se trata de un proyecto en el último piso de un edificio de Estudio Planta. La intervención busca agregar superficie cubierta a la existente con un dormitorio en suite y vestidor en la terraza verde existente. El planteo constructivo se ajusta a una lógica liviana por una serie de motivos. Debe ser de rápida ejecución y de logística simple, a la hora de subir los materiales. No tiene que cargar la estructura existente de hormigón excesivamente, al tratarse del último piso y por tanto tener las menores secciones en todos los elementos estructurales.
 
-Con la escalera existente cerrada, y ahora incorporada a la superficie cubierta de la unidad, se accede al piso en duplex en donde se encuentra el dormitorio principal, dispuesto de tal manera que se introducen las visuales sobre el verde del bulevard Comodo Rivadavia y la amplitud de la Avenida Libertador adentro del departamento. 
+Se incorpora la escalera del dúplex existente, ahora cerrada, por donde se accede al piso del dormitorio principal, dispuesto de tal manera que se introducen las visuales sobre el verde de Comodoro Rivadavia. Aprovecha la dirección en diagonal del bulevar para abrirse a la Avenida Libertador, e introducir su ancho y la amplitud de visuales adentro del departamento.
 
-La arquitectura interior está planteada a través de equipamiento de madera natural que resuelve el funcionamiento de la planta y agrega el espacio de guardado necesario para este pent-house.
+La arquitectura interior está regulada a partir muebles que ordenan la planta, su funcionamiento y su circulación. A su vez cubren una necesidad del programa, agregar espacio de guardado.
 
 ----
 
