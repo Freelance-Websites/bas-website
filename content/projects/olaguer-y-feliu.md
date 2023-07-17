@@ -11,7 +11,7 @@ roleEng: project and construction management.
 statusEsp: construido.
 statusEng: built.
 year: 2019 – 2022
-order: 3
+order: 2
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Luis Leoni, Nicolás López, Julia Chiesa, María Bochoeyer.
 sliderImages:
