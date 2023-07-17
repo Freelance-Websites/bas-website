@@ -25,9 +25,6 @@ sliderImages:
   - src: /images/heredia-gallery-4.jpg
     visible: true
     aspect: video
-  - src: /images/heredia-gallery-5.jpg
-    visible: true
-    aspect: square
   - src: /images/heredia-planos-1.jpg
     visible: true
     aspect: video
