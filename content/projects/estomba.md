@@ -25,8 +25,8 @@ sliderImages:
   - src: /images/estomba-gallery-4.jpg
     visible: true
     aspect: video
-  - src: /public/images/04b.jpg
-  - src: /public/images/04c.jpg
+  - src: /images/04b.jpg
+  - src: /images/04c.jpg
   - src: /images/estomba-gallery-5.jpg
     visible: true
     aspect: video
