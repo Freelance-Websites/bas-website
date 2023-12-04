@@ -13,7 +13,8 @@ statusEng: built.
 year: 2018 – 2022
 order: 3
 associates: Florencia Oszurkiewicz.
-collaborators: Julia Chiesa, Agustina Bozzano, Alejandro Laurido, Nicolás López y Jerónimo Fortunati.
+collaborators: Julia Chiesa, Agustina Bozzano, Alejandro Laurido, Nicolás López
+  y Jerónimo Fortunati.
 photos: Fernando Schapochnik
 sliderImages:
   - src: /images/teodoro-garcia-photos-1.jpg
@@ -85,6 +86,8 @@ sliderImages:
   - src: /images/teodoro-garcia-planos-8.jpg
     visible: true
     aspect: video
+  - visible: true
+    src: /images/08-corte-axonometrico.jpg
 ---
 
 El terreno situado en Chacarita, a una cuadra de la avenida Federico Lacroze y a tres de Álvarez Thomas, se encuentra en una zona que experimentó grandes cambios los últimos diez años en cuanto a sus usos urbanos. Se pobló de locales gastronómicos, galerías de arte, estudios de diseño, centros culturales, y se consolidó como un barrio nuevo en cuanto a propuestas emergentes. 
