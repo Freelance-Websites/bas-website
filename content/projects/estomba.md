@@ -59,6 +59,10 @@ sliderImages:
   - src: /images/estomba-planos-6.jpg
     visible: true
     aspect: video
+  - visible: true
+    src: /images/estomba-planos-7.jpg
+  - visible: true
+    src: /images/estomba-planos-8.jpg
 ---
 
 El proyecto para el edificio de Estomba 1046 reflexiona sobre cómo lo compacto puede convivir con el habitar de la pos pandemia de Covid19. El lote se sitúa en un barrio tradicionalmente de baja densidad, en el cual predominan las viviendas unifamiliares, algunos edificios de escala baja, y a continuación, sin rejas, la plaza que ocupa una manzana. Las medidas del terreno son acotadas, con 17.32m de profundidad y ancho de 8.61m.
