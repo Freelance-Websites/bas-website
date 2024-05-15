@@ -34,23 +34,15 @@ sliderImages:
   - visible: true
     src: /images/planta-2.jpg
   - visible: true
-    src: /images/planta-3.jpg
-  - visible: true
-    src: /images/planta-4.jpg
-  - visible: true
     src: /images/cortes.jpg
   - visible: true
     src: /images/cortes-1.jpg
   - visible: true
     src: /images/cortes-2.jpg
 ---
-**Ciudad da la ciencia**
-
-Estrategia urbana 
-
 **Ciudad de la ciencia**
 
-
+Estrategia urbana 
 
 **El parque, las plazas, los edificios**
 
