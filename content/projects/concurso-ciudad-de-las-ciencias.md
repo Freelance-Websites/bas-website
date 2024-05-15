@@ -62,7 +62,7 @@ Como su predecesor, el edificio de la sede central del Conicet, esta intervenci�
 
 El parque adyacente se define como un espacio predominantemente verde que potencia su vínculo con el parque lineal, conservando la escala metropolitana que el proyecto urbano pretende sobre la zona. 
 
-**Dos Plazas, dos ambientes, un recorrido** 
+**Dos plazas, dos ambientes, un recorrido** 
 
 El proyecto propone dos espacios públicos, una explanada hacia Godoy cruz y una plazoleta de acceso, anexa al parque. 
 
