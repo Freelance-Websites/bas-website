@@ -6,11 +6,11 @@ shortTitleEng: city of science competition
 address: godoy cruz y nicaragua
 locationEsp: palermo, ciudad de buenos aires
 locationEng: palermo, buenos aires city
-roleEsp: concursante
-roleEng: contestant
+roleEsp: anteproyecto para el Concurso Nacional "Ciudad de la Ciencia" - MINCyT
+roleEng: preliminary project for the National Competition “City of Science”.
 year: "2023"
 order: 4
-associates: Alejandro Laurido y Bruno Emmer
+associates: estudio LABA y estudio Emmer
 collaborators: Rodrigo García de Cossio, María Paz Maiola, Matias Quintela,
   Tadeo Urgoiti, Federica López Brown, María Bochoeyer, Miranda Gómez Coll,
   Martin Mendilarzuch y Alfonso Badia
