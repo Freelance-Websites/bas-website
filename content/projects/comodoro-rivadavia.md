@@ -11,7 +11,7 @@ roleEng: project and construction management.
 statusEsp: en cotización construcción.
 statusEng: in construction estimation.
 year: 2020 – 2021
-order: 4
+order: 6
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Alejandro Laurido y Nicolás López.
 sliderImages:
