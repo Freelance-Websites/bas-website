@@ -41,22 +41,22 @@ sliderImages:
   - src: /images/estomba-gallery-8.jpg
     visible: true
     aspect: square
-  - src: /images/estomba-planos-1.jpg
+  - src: /images/estomba-pb.jpg
     visible: true
     aspect: video
-  - src: /images/estomba-planos-2.jpg
+  - src: /images/estomba-1ero.jpg
     visible: true
     aspect: video
-  - src: /images/estomba-planos-3.jpg
+  - src: /images/estomba-ptipo.jpg
     visible: true
     aspect: video
-  - src: /images/estomba-planos-4.jpg
+  - src: /images/estomba-6to.jpg
     visible: true
     aspect: video
-  - src: /images/estomba-planos-5.jpg
+  - src: /images/estomba-7m0.jpg
     visible: true
     aspect: video
-  - src: /images/estomba-planos-6.jpg
+  - src: /images/estomba-terraza.jpg
     visible: true
     aspect: video
   - visible: true
