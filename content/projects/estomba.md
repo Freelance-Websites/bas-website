@@ -27,15 +27,17 @@ sliderImages:
     aspect: video
   - src: /images/04b.jpg
     visible: true
-  - src: /images/04c.jpg
+  - src: /images/pb-1.jpg
     visible: true
+  - src: /images/isla.jpg
+    visible: true
+    aspect: video
+  - visible: true
+    src: /images/iskla.jpg
   - src: /images/estomba-gallery-5.jpg
     visible: true
     aspect: video
-  - src: /images/estomba-gallery-6.jpg
-    visible: true
-    aspect: video
-  - src: /images/estomba-gallery-7.jpg
+  - src: /images/terrazamimg.jpg
     visible: true
     aspect: square
   - src: /images/estomba-gallery-8.jpg
