@@ -44,24 +44,6 @@ sliderImages:
   - src: /images/teodoro-garcia-photos-9.jpg
     visible: true
     aspect: video
-  - src: /images/teodoro-garcia-photos-10.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-photos-11.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-photos-12.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-photos-13.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-photos-14.jpg
-    visible: true
-    aspect: square
-  - src: /images/teodoro-garcia-photos-15.jpg
-    visible: true
-    aspect: video
   - visible: true
     src: /images/08-corte-axonometrico.jpg
   - src: /images/teodoro-garcia-planos-1.jpg
