@@ -32,7 +32,7 @@ sliderImages:
   - visible: true
     src: /images/planta-1.jpg
   - visible: true
-    src: /images/planta-2.jpg
+    src: /images/planta-2.-actualizada.jpg
   - visible: true
     src: /images/cortes.jpg
   - visible: true
