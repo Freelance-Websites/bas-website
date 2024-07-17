@@ -11,12 +11,12 @@ locationEsp: sede club de Gimnasia y Esgrima, La Plata
 locationEng: Gimnasia y Esgrima clubhouse, La Plata
 roleEsp: "Participacion de concurso "
 roleEng: competition participation
-year: "2023"
+year: "2024"
 order: 5
-associates: Estudio LABA y Estudio Emmer
-collaborators: Rodrigo García de Cossio, María Paz Maiola, Matias Quintela,
-  Tadeo Urgoiti, Federica López Brown, María Bochoeyer, Miranda Gómez Coll,
-  Martin Mendilarzuch y Alfonso Badia
+associates: Estudio LABA y estudio Futuro (Victoria Cantoli, Analia D´Have,
+  Alejandro Bokser)
+collaborators: "Matias Quintela, Camila Sanchez Goitia, Mauro Ariel Romo, Martin
+  Mandilaharzu y Lea Bichon Soustiel "
 sliderImages:
   - visible: true
     src: /images/01.jpg
