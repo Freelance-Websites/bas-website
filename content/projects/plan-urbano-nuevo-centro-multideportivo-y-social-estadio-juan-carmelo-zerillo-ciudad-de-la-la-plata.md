@@ -63,6 +63,8 @@ Los espacios públicos que planifica el proyecto otorgan a la ciudad un aproxima
 
 La estrategia para la planificación de la construcción en etapas de modo que el proyecto sea sustentable económicamente se pauta:
 
-1. Etapa ampliación y consolidación del Estadio Juan Carmelo Zerillo: Se planifica el mayor aprovechamiento de los recursos existentes del club.
-2. Etapa comercial y cultural: Se proyecta la construcción de la nueva planta baja del club a +4.10 junto con la pérgola que articula el borde del predio y sus accesos. De este modo, se organizan bajo dicha losa los comercios, el programa cultural y el gimnasio. Sobre la losa se organizan las canchas al aire libre.
-3. Etapa cubiertas livianas: Con la rentabilidad de las concesiones se pautan las obras de las techumbres de Patín y Gimnasia, y de la pileta olímpica. Se completan las obras de recolección de energía solar y se planifican potenciales obras de las circulaciones en las esquinas del estadio (Nuevo Instituto Universitario GELP).
+\-Etapa ampliación y consolidación del Estadio Juan Carmelo Zerillo: Se planifica el mayor aprovechamiento de los recursos existentes del club.
+
+\-Etapa comercial y cultural: Se proyecta la construcción de la nueva planta baja del club a +4.10 junto con la pérgola que articula el borde del predio y sus accesos. De este modo, se organizan bajo dicha losa los comercios, el programa cultural y el gimnasio. Sobre la losa se organizan las canchas al aire libre.
+
+\-Etapa cubiertas livianas: Con la rentabilidad de las concesiones se pautan las obras de las techumbres de Patín y Gimnasia, y de la pileta olímpica. Se completan las obras de recolección de energía solar y se planifican potenciales obras de las circulaciones en las esquinas del estadio (Nuevo Instituto Universitario GELP).
