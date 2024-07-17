@@ -1,7 +1,7 @@
 ---
 title: "plan urbano nuevo centro multideportivo y social estadio Juan Carmelo
   Zerillo ciudad de la La Plata "
-thumbnail: /images/000.jpg
+thumbnail: /images/portada.jpg
 shortTitleEsp: "plan urbano nuevo centro multideportivo y social estadio Juan
   Carmelo Zerillo ciudad de la La Plata "
 shortTitleEng: "urban plan new multi-sports and social center Juan Carmelo
