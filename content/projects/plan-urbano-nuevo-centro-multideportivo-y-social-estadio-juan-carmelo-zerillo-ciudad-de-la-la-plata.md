@@ -9,7 +9,7 @@ shortTitleEng: "urban plan new multi-sports and social center Juan Carmelo
 address: ""
 locationEsp: Sede club de Gimnasia y Esgrima, La Plata
 locationEng: Gimnasia y Esgrima clubhouse, La Plata
-roleEsp: "Participación del concurso "
+roleEsp: Propuesta para el concurso
 roleEng: competition participation
 year: "2024"
 order: 5
