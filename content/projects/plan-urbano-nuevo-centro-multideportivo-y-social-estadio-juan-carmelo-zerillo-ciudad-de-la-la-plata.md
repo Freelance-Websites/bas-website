@@ -1,11 +1,11 @@
 ---
-title: Plan Urbano del Nuevo Centro Multideportivo y Social Estadio Juan Carmelo
-  Zerillo
+title: concurso club gimnasia y esgrima la plata
 thumbnail: /images/portada.jpg
 shortTitleEsp: "concurso club gimnasia y esgrima la plata "
 shortTitleEng: "urban plan new multi-sports and social center Juan Carmelo
   Zerillo stadium La Plata city "
-address: ""
+address: Plan Urbano del Nuevo Centro Multideportivo y Social Estadio Juan
+  Carmelo Zerillo
 locationEsp: Sede club de Gimnasia y Esgrima, La Plata
 locationEng: Gimnasia y Esgrima clubhouse, La Plata
 roleEsp: Propuesta para el concurso
