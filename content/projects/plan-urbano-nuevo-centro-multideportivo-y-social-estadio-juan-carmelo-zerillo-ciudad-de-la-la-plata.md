@@ -5,9 +5,9 @@ shortTitleEsp: "concurso club gimnasia y esgrima la plata "
 shortTitleEng: "urban plan new multi-sports and social center Juan Carmelo
   Zerillo stadium La Plata city "
 address: ""
-locationEsp: Sede club de Gimnasia y Esgrima, La Plata
+locationEsp: sede club de Gimnasia y Esgrima, La Plata
 locationEng: Gimnasia y Esgrima clubhouse, La Plata
-roleEsp: Propuesta para el concurso Plan Urbano del Nuevo Centro Multideportivo
+roleEsp: propuesta para el concurso Plan Urbano del Nuevo Centro Multideportivo
   y Social Estadio Juan Carmelo Zerillo
 roleEng: competition participation
 year: "2024"
