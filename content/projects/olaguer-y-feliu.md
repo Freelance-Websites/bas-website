@@ -14,6 +14,7 @@ year: 2019 – 2022
 order: 2
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Luis Leoni, Nicolás López, Julia Chiesa, María Bochoeyer.
+photos: Fernando Schapochnik
 sliderImages:
   - src: /images/olaguer-y-feliu-photos-1.jpg
     visible: true
