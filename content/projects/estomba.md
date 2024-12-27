@@ -10,8 +10,8 @@ roleEsp: proyecto y dirección de obra.
 roleEng: project and construction management.
 year: 2022 – 2025
 order: 1
-associates: Alejandro Laurido, Nicolás López.
-collaborators: Agustina Bozzano, Camila Sánchez Goytia, María Sol Bochoeyer.
+associates: LABA - Alejandro Laurido - Nicolás López.
+collaborators: Agustina Bozzano, Camila Sanchez Goitia, María Sol Bochoeyer.
 sliderImages:
   - src: /images/estomba-gallery-1.jpg
     visible: true
