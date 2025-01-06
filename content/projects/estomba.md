@@ -4,9 +4,9 @@ thumbnail: /images/estomba-thumbnail.jpg
 shortTitleEsp: edificio estomba
 shortTitleEng: edificio estomba
 locationEsp: villa ortúzar, ciudad de buenos aires
-locationEng: villa ortúzar, ciudad de buenos aires
+locationEng: villa ortúzar, buenos aires city
 roleEsp: proyecto y dirección de obra
-roleEng: proyecto y dirección de obra
+roleEng: project and construction management.
 year: 2022-2025
 order: 1
 associates: Estudio LABA (Alejandro Laurido, Nicolás López)
