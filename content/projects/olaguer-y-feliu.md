@@ -14,7 +14,7 @@ year: 2019 – 2022
 order: 2
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Luis Leoni, Nicolás López, Julia Chiesa, María Bochoeyer.
-photos: ""
+photos: Fernando Schapochnik
 sliderImages:
   - src: /images/olaguer-y-feliu-photos-1.jpg
     visible: true
@@ -101,21 +101,17 @@ El proyecto reflexiona sobre las posibilidades del edificio de cerrarse casi por
 
 
 
-I﻿nteriorismo
+I﻿nteriorismo:
 
 A﻿telier Brux
 
 
 
-A﻿sesor en iluminación
+A﻿sesor en iluminación:
 
 A﻿rturo Peruzzotti
 
 
-
-F﻿otos
-
-Fernando Schapochnik
 
 - - -
 
