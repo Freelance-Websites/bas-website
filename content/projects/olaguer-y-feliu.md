@@ -14,7 +14,7 @@ year: 2019 – 2022
 order: 2
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Luis Leoni, Nicolás López, Julia Chiesa, María Bochoeyer.
-photos: Fernando Schapochnik
+photos: ""
 sliderImages:
   - src: /images/olaguer-y-feliu-photos-1.jpg
     visible: true
@@ -89,7 +89,6 @@ sliderImages:
     visible: true
     aspect: video
 ---
-
 Se trata de una casa urbana antigua en el barrio de Colegiales, construida entre la década del 30 y la del 40 del siglo XX, que sufrió un deterioro considerable después de estar abandonada durante más de 15 años, por tanto, se encuentra en condiciones precarias, inhabitable. Su estructura portante, sus muros y revoques, sus pisos, y su cubierta están afectados por la acción química y mecánica de humedad, agregados calcáreos abrasivos, insectos. Su programa original contempla un taller mecánico en la planta baja y una vivienda para tres familias.  
 
 El encargo es para reformar la casa primaria y transformarla en una vivienda unifamiliar. El programa consiste en los accesos y los espacios más públicos, organizados en la planta baja; el dormitorio principal con vestidor y baño en suite, y los dormitorios de dos niños (9 y 4 años) en el primer piso; el quincho, un estudio y play-room se organizan en el segundo piso como una ampliación sobre las existencias.
@@ -100,6 +99,24 @@ Los locales de la planta baja se disponen alrededor del primer patio, que recons
 
 El proyecto reflexiona sobre las posibilidades del edificio de cerrarse casi por completo, o abrirse hacia los paisajes urbanos que se enmarcan desde el interior. Hay un estudio minucioso y un desarrollo del trabajo en función de disposición de los vanos, las aberturas y los elementos de oscurecimiento. Así la paleta de materialidades atiende este requerimiento: los postigos en chapa micro perforada tamizan la luz directa; las aberturas  de perfiles de sección reducida integran los patios, intentando introducir el exterior al interior.
 
-----
+
+
+I﻿nteriorismo
+
+A﻿telier Brux
+
+
+
+A﻿sesor en iluminación
+
+A﻿rturo Peruzzotti
+
+
+
+F﻿otos
+
+Fernando Schapochnik
+
+- - -
 
 ENG
