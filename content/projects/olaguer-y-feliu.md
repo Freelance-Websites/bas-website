@@ -99,22 +99,6 @@ Los locales de la planta baja se disponen alrededor del primer patio, que recons
 
 El proyecto reflexiona sobre las posibilidades del edificio de cerrarse casi por completo, o abrirse hacia los paisajes urbanos que se enmarcan desde el interior. Hay un estudio minucioso y un desarrollo del trabajo en función de disposición de los vanos, las aberturas y los elementos de oscurecimiento. Así la paleta de materialidades atiende este requerimiento: los postigos en chapa micro perforada tamizan la luz directa; las aberturas  de perfiles de sección reducida integran los patios, intentando introducir el exterior al interior.
 
-
-
-
-
-I﻿nteriorismo:
-
-A﻿telier Brux
-
-
-
-A﻿sesor en iluminación:
-
-A﻿rturo Peruzzotti
-
-
-
 - - -
 
 ENG
