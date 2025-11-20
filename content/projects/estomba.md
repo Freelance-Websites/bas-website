@@ -1,8 +1,8 @@
 ---
-title: edificio estomba 1046
+title: estomba 1046
 thumbnail: /images/estomba-thumbnail.jpg
-shortTitleEsp: edificio estomba 1046
-shortTitleEng: edificio estomba 1046
+shortTitleEsp: estomba 1046
+shortTitleEng: estomba 1046
 address: estomba 1046
 locationEsp: villa ortúzar, ciudad de buenos aires
 locationEng: villa ortúzar, buenos aires city
