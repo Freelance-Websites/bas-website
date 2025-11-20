@@ -24,7 +24,9 @@ sliderImages:
   - visible: true
     src: /images/est1069_cam-07_3amb-contrafrente-02.jpg
   - visible: true
-    src: /images/est1069-plantas.jpg
+    src: /images/est1069-pb.jpg
+  - visible: true
+    src: /images/est1069-1p.jpg
 ---
 Estomba 1069 es un edificio de viviendas que relaciona arquitectura y ciudad mediante una envolvente continua. Ésta organiza los cerramientos, ordena la modulación, funciona como fachada ventilada y regula la permeabilidad. Su continuidad unifica la volumetría y aporta homogeneidad al tejido urbano en el que se sitúa, así refuerza la identidad barrial de escala peatonal.
 
