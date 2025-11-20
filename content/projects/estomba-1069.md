@@ -6,7 +6,7 @@ shortTitleEng: estomba 1069
 address: estomba 1069
 locationEsp: villa ortuzar, ciudad de buenos aires.
 locationEng: villa ortuzar, buenos aires city.
-roleEsp: proyecto y dirección de obra.
+roleEsp: proyecto y dirección de obra. últimas unidades disponibles.
 roleEng: project and construction management.
 statusEsp: ""
 statusEng: ""
