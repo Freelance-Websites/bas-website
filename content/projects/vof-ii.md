@@ -4,10 +4,10 @@ thumbnail: /images/02.jpg
 shortTitleEsp: VOF II "Habitar el ocio"
 shortTitleEng: VOF II "Habitar el ocio"
 address: ""
-locationEsp: colegiales, ciudad de buenos aires
-locationEng: colegiales, ciudad de buenos aires
-roleEsp: anteproyecto
-roleEng: preliminary project
+locationEsp: colegiales, ciudad de buenos aires.
+locationEng: colegiales, buenos aires city.
+roleEsp: anteproyecto.
+roleEng: preliminary project.
 year: "2025"
 order: 3
 associates: Estudio LABA (Alejandro Laurido, Nicolás López)
