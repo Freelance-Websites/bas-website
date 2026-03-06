@@ -1,6 +1,6 @@
 ---
 title: comodoro rivadavia
-thumbnail: /images/comodoro-rivadavia-thumbnail.jpg
+thumbnail: /images/comodoro-rivadavia-gallery-2.jpg
 shortTitleEsp: ampliación comodoro rivadavia
 shortTitleEng: comodoro rivadavia extension
 address: comodoro rivadavia 1752
