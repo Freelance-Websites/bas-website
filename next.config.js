@@ -1,5 +1,8 @@
 module.exports = {
   reactStrictMode: true,
+  images: {
+    unoptimized: true,
+  },
   webpack: (cfg) => {
     cfg.module.rules.push(
       {
