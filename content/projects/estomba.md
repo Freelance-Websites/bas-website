@@ -1,6 +1,6 @@
 ---
 title: estomba 1046
-thumbnail: /images/estomba-gallery-2.jpg
+thumbnail: /images/estomba-thumbnail.jpg
 shortTitleEsp: estomba 1046
 shortTitleEng: estomba 1046
 address: estomba 1046
