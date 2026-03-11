@@ -1,6 +1,6 @@
 ---
 title: olaguer y feliú
-thumbnail: /images/olaguer-y-feliu-thumbnail.jpg
+thumbnail: /images/16-schapochnik_404_olaguer_131-2-3_media.jpg
 shortTitleEsp: casa olaguer y feliú
 shortTitleEng: olaguer y feliú house
 address: olaguer y feliú 2855
