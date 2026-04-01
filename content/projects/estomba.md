@@ -1,6 +1,6 @@
 ---
 title: estomba 1046
-thumbnail: /images/04b.jpg
+thumbnail: /images/07-est1046-axo-c-final-publicacion.jpg
 shortTitleEsp: estomba 1046
 shortTitleEng: estomba 1046
 address: estomba 1046
