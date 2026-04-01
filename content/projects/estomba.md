@@ -9,7 +9,7 @@ locationEng: villa ortúzar, buenos aires city
 roleEsp: proyecto y dirección de obra
 roleEng: project and construction management.
 year: 2022-2025
-order: 5
+order: 4
 associates: Estudio LABA (Alejandro Laurido, Nicolás López)
 collaborators: Agustina Bozzano, Camila Sanchez Goitia, María Sol Bochoeyer.
 sliderImages:
