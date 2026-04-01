@@ -10,7 +10,7 @@ roleEsp: Proyeccto y dirección
 roleEng: "Project "
 statusEsp: en construcción
 year: 2025-2026
-order: 1
+order: 3
 associates: BAS + LABA (Arq. Alejandro Laurido)
 collaborators: Arq. Camila Sanchez Goitia, Arq. Matías Agustín Quintela, Catalina Impinissi
 sliderImages:
