@@ -1,6 +1,6 @@
 ---
 title: teodoro garcía
-thumbnail: /images/teodoro-garcia-thumbnail.jpg
+thumbnail: /images/teodoro-garcia-photos-1.JPG
 shortTitleEsp: edificio teodoro garcía
 shortTitleEng: teodoro garcía building
 address: teodoro garcía 3724
@@ -11,7 +11,7 @@ roleEng: project and construction management.
 statusEsp: construido.
 statusEng: built.
 year: 2018 – 2022
-order: 3
+order: 5
 associates: Florencia Oszurkiewicz.
 collaborators: Julia Chiesa, Agustina Bozzano, Alejandro Laurido, Nicolás López
   y Jerónimo Fortunati.
