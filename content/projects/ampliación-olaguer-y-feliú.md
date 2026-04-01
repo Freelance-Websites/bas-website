@@ -12,8 +12,8 @@ statusEsp: ""
 statusEng: ""
 year: "2025"
 order: 5
-associates: BAS + LABA (Arq. Alejandro Laurido)
-collaborators: Arq. amila Sanchez Goitia
+associates: LABA
+collaborators: Arq. Camila Sanchez Goitia, Arq. Matías Agustín Quintela
 photos: ""
 sliderImages: []
 ---
