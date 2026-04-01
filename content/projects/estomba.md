@@ -1,6 +1,6 @@
 ---
 title: estomba 1046
-thumbnail: /images/estomba-thumbnail.jpg
+thumbnail: /images/teodoro-garcia-photos-1.JPG
 shortTitleEsp: estomba 1046
 shortTitleEng: estomba 1046
 address: estomba 1046
