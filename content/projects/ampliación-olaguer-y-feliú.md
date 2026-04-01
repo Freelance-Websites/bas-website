@@ -1,6 +1,6 @@
 ---
 title: "ampliación olaguer y feliú "
-thumbnail: /images/ai-render-13305483.jpg
+thumbnail: /images/ai-render-13306099.jpg
 shortTitleEsp: casa olaguer y feliú
 shortTitleEng: olaguer y feliú house
 address: olaguer y feliú 2855
@@ -17,4 +17,4 @@ collaborators: Arq. Camila Sanchez Goitia, Arq. Matías Agustín Quintela
 photos: ""
 sliderImages: []
 ---
-V﻿ivir el ocio
+\-
