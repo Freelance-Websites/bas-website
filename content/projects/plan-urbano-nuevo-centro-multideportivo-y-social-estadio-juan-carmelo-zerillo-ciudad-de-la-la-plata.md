@@ -11,7 +11,7 @@ roleEsp: propuesta para el concurso Plan Urbano del Nuevo Centro Multideportivo
   y Social Estadio Juan Carmelo Zerillo
 roleEng: competition participation
 year: "2024"
-order: 10
+order: 13
 associates: Estudio LABA (Alejandro Laurido, Nicolás López) - Estudio Futuro
   (Victoria Cantoli, Analia D´Have)
 collaborators: "Matias Quintela, Camila Sanchez Goitia, Mauro Ariel Romo, Martin
