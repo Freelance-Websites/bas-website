@@ -1,6 +1,6 @@
 ---
 title: oficinas pq
-thumbnail: /images/oficinas-pq-thumbnail.jpg
+thumbnail: /images/0-oficinas-pq-portada.jpg
 shortTitleEsp: oficinas pq - libero
 shortTitleEng: pq offices - libero
 locationEsp: palermo, ciudad de buenos aires.
