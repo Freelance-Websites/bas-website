@@ -10,7 +10,7 @@ roleEsp: proyecto y dirección de obra. últimas unidades disponibles.
 roleEng: project and construction management.
 statusEsp: ""
 statusEng: ""
-year: "2025"
+year: 2025-2027
 order: 2
 associates: Estudio LABA
 collaborators: Camila Sanchez Goitia, Matias Agustín Quintela, Victoria Bikarht
