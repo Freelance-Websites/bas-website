@@ -11,8 +11,8 @@ roleEng: project
 statusEsp: en construcción
 year: 2025-2026
 order: 1
-associates: LABA
-collaborators: Arq. Camila Sanchez Goitia, Arq. Matías Agustín Quintela, Catalina Impinissi
+associates: Estudio LABA
+collaborators: Arq. Camila Sanchez Goitia, Arq. Matías Agustín Quintela, Victoria Bikarht
 sliderImages:
   - visible: true
     src: /images/rawson_01.jpg
