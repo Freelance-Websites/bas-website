@@ -6,7 +6,7 @@ shortTitleEng: Conde workspace
 locationEsp: Colegiales
 locationEng: Colegiales
 roleEsp: proyecto y dirección
-roleEng: PROJECT
+roleEng: project
 statusEsp: construido
 statusEng: built
 year: "2025"
