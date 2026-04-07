@@ -1,6 +1,6 @@
 ---
 title: concurso club gimnasia y esgrima la plata
-thumbnail: /images/portada.jpg
+thumbnail: /images/0-gelp-portada.jpg
 shortTitleEsp: "concurso club gimnasia y esgrima la plata "
 shortTitleEng: "urban plan new multi-sports and social center Juan Carmelo
   Zerillo stadium La Plata city "
@@ -12,8 +12,7 @@ roleEsp: propuesta para el concurso Plan Urbano del Nuevo Centro Multideportivo
 roleEng: competition participation
 year: "2024"
 order: 13
-associates: Estudio LABA (Alejandro Laurido, Nicolás López) - Estudio Futuro
-  (Victoria Cantoli, Analia D´Have)
+associates: Estudio LABA - Estudio Futuro (Victoria Cantoli, Analia D´Have)
 collaborators: "Matias Quintela, Camila Sanchez Goitia, Mauro Ariel Romo, Martin
   Mandilaharzu y Lea Bichon Soustiel "
 sliderImages:
@@ -21,8 +20,6 @@ sliderImages:
     src: /images/01.jpg
   - visible: true
     src: /images/00.jpg
-  - visible: true
-    src: /images/02.jpg
   - visible: true
     src: /images/03.jpg
   - visible: true
