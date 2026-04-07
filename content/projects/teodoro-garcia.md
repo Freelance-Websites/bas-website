@@ -1,6 +1,6 @@
 ---
 title: teodoro garcía
-thumbnail: /images/teodoro-garcia-photos-1.JPG
+thumbnail: /images/0-tg-portada.jpg
 shortTitleEsp: edificio teodoro garcía
 shortTitleEng: teodoro garcía building
 address: teodoro garcía 3724
