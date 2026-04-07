@@ -1,6 +1,6 @@
 ---
 title: galicia
-thumbnail: /images/galicia-thumbnail.jpg
+thumbnail: /images/0-galicia-portada.jpg
 shortTitleEsp: edificio galicia
 shortTitleEng: galicia building
 address: galicia 2323
