@@ -15,6 +15,24 @@ order: 4
 associates: LABA
 collaborators: Arq. Camila Sanchez Goitia, Arq. Matías Agustín Quintela
 photos: ""
-sliderImages: []
+sliderImages:
+  - visible: true
+    src: /images/vof-ii_01.jpg
+  - visible: true
+    src: /images/vof-ii_02.jpg
+  - visible: true
+    src: /images/vof-ii_03.jpg
+  - visible: true
+    src: /images/vof-ii_04.jpg
+  - visible: true
+    src: /images/vof-ii_05.jpg
+  - visible: true
+    src: /images/vof-ii_06.jpg
+  - visible: true
+    src: /images/vof-ii_07.jpg
+  - visible: true
+    src: /images/vof-ii_08.jpg
+  - visible: true
+    src: /images/vof-ii_09.jpg
 ---
 \-
