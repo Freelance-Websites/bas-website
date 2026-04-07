@@ -1,6 +1,6 @@
 ---
 title: comodoro rivadavia
-thumbnail: /images/comodoro-rivadavia-thumbnail.jpg
+thumbnail: /images/0-comodoro-portada.jpg
 shortTitleEsp: ampliación comodoro rivadavia
 shortTitleEng: comodoro rivadavia extension
 address: comodoro rivadavia 1752
@@ -11,7 +11,7 @@ roleEng: project and construction management.
 statusEsp: en cotización construcción.
 statusEng: in construction estimation.
 year: 2020 – 2021
-order: 7
+order: 10
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Alejandro Laurido y Nicolás López.
 sliderImages:
