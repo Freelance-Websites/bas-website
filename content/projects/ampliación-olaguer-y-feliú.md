@@ -1,12 +1,12 @@
 ---
 title: "ampliación olaguer y feliú "
-thumbnail: /images/ai-render-13306099.jpg
-shortTitleEsp: casa olaguer y feliú
+thumbnail: /images/0-vof-ii-portada.jpg
+shortTitleEsp: ampliación casa olaguer y feliú
 shortTitleEng: olaguer y feliú house
 address: olaguer y feliú 2855
 locationEsp: colegiales, ciudad de buenos aires.
 locationEng: colegiales, buenos aires city.
-roleEsp: proyecto
+roleEsp: anteproyecto
 roleEng: project
 statusEsp: ""
 statusEng: ""
