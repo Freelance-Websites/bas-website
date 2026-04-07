@@ -1,6 +1,6 @@
 ---
 title: concurso ciudad de las ciencia
-thumbnail: /images/portada-cdc.jpg
+thumbnail: /images/0-cdc-portada.jpg
 shortTitleEsp: concurso ciudad de las ciencia
 shortTitleEng: city of science competition
 address: godoy cruz y nicaragua
@@ -9,7 +9,7 @@ locationEng: palermo, buenos aires city
 roleEsp: anteproyecto para el Concurso Nacional "Ciudad de la Ciencia" - MINCyT
 roleEng: preliminary project for the National Competition “City of Science”.
 year: "2023"
-order: 7
+order: 11
 associates: Estudio LABA y Estudio Emmer
 collaborators: Rodrigo García de Cossio, María Paz Maiola, Matias Quintela,
   Tadeo Urgoiti, Federica López Brown, María Bochoeyer, Miranda Gómez Coll,
