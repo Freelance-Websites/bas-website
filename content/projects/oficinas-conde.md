@@ -1,5 +1,5 @@
 ---
-title: Oficinas Conde
+title: oficinas conde
 thumbnail: /images/0-conde-portada.jpg
 shortTitleEsp: oficinas conde
 shortTitleEng: Conde workspace
