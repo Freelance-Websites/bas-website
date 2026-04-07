@@ -10,7 +10,7 @@ roleEng: project
 statusEsp: construido
 statusEng: built
 year: "2025"
-order: 9
+order: 7
 associates: LABA
 collaborators: Arq. Camila Sanchez Goitia, Arq. Matías Agustín Quintela
 photos: Vila-Laurido
