@@ -12,7 +12,7 @@ statusEsp: ""
 statusEng: ""
 year: "2025"
 order: 4
-associates: LABA
+associates: Estudio LABA
 collaborators: Arq. Camila Sanchez Goitia, Arq. Matías Agustín Quintela
 photos: ""
 sliderImages:
