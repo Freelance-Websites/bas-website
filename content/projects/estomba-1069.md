@@ -13,7 +13,7 @@ statusEng: ""
 year: 2025-2027
 order: 2
 associates: Estudio LABA
-collaborators: Camila Sanchez Goitia, Matias Agustín Quintela, Victoria Bikarht
+collaborators: Arq. Camila Sanchez Goitia, Arq. Matias Agustín Quintela, Victoria Bikarht
 sliderImages:
   - visible: true
     src: /images/cam-01_fachada_preliminares_07.jpg
