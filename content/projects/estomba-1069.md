@@ -11,8 +11,8 @@ roleEng: project and construction management.
 statusEsp: ""
 statusEng: ""
 year: "2025"
-order: 2
-associates: Estudio LABA (Alejandro Laurido, Nicolás López)
+order: 1
+associates: Estudio LABA
 collaborators: Camila Sanchez Goitia, Matias Agustín Quintela, Victoria Bikarht
 sliderImages:
   - visible: true
