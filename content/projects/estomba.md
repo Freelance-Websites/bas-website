@@ -11,7 +11,7 @@ roleEng: project and construction management
 year: 2022-2025
 order: 6
 associates: Estudio LABA
-collaborators: Arq. Agustina Bozzano, Aqr. Camila Sanchez Goitia, María Sol Bochoeyer.
+collaborators: Arq. Agustina Bozzano, Arq. Camila Sanchez Goitia, María Sol Bochoeyer.
 sliderImages:
   - visible: true
     src: /images/estomba-gallery-1.jpg
