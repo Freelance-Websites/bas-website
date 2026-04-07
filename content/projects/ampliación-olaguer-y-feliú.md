@@ -6,8 +6,8 @@ shortTitleEng: olaguer y feliú house
 address: olaguer y feliú 2855
 locationEsp: colegiales, ciudad de buenos aires.
 locationEng: colegiales, buenos aires city.
-roleEsp: anteproyecto
-roleEng: project
+roleEsp: anteproyecto.
+roleEng: project.
 statusEsp: ""
 statusEng: ""
 year: "2025"
