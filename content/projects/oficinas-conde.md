@@ -1,7 +1,7 @@
 ---
 title: Oficinas Conde
 thumbnail: /images/0-conde-portada.jpg
-shortTitleEsp: Oficinas Conde
+shortTitleEsp: oficinas conde
 shortTitleEng: Conde workspace
 locationEsp: Colegiales
 locationEng: Colegiales
