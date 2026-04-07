@@ -1,8 +1,8 @@
 ---
 title: comodoro rivadavia
 thumbnail: /images/0-comodoro-portada.jpg
-shortTitleEsp: ampliación comodoro rivadavia
-shortTitleEng: comodoro rivadavia extension
+shortTitleEsp: comodoro rivadavia
+shortTitleEng: comodoro rivadavia
 address: comodoro rivadavia 1752
 locationEsp: nuñez, ciudad de buenos aires.
 locationEng: nuñez, buenos aires city.
