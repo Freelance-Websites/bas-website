@@ -1,6 +1,6 @@
 ---
 title: estomba 1069
-thumbnail: /images/est1069_cam-01_fachada_final_04.jpg
+thumbnail: /images/0-estomba-1069-portada.jpg
 shortTitleEsp: estomba 1069
 shortTitleEng: estomba 1069
 address: estomba 1069
