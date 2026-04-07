@@ -10,7 +10,7 @@ roleEng: project and construction management.
 statusEsp: construido.
 statusEng: built.
 year: 2020
-order: 9
+order: 8
 associates: Florencia Oszurkiewicz y Agustina Genttili.
 collaborators: Jerónimo Fortunati.
 photos: Fernando Schapochnik
