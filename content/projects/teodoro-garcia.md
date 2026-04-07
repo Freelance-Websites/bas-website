@@ -1,8 +1,8 @@
 ---
-title: teodoro garcía
+title: teodoro garcía 3724
 thumbnail: /images/0-tg-portada.jpg
-shortTitleEsp: edificio teodoro garcía
-shortTitleEng: teodoro garcía building
+shortTitleEsp: teodoro garcía 3724
+shortTitleEng: garcía building 3724
 address: teodoro garcía 3724
 locationEsp: chacarita, ciudad de buenos aires.
 locationEng: chacarita, buenos aires city.
