@@ -1,6 +1,6 @@
 ---
 title: heredia
-thumbnail: /images/heredia-thumbnail.jpg
+thumbnail: /images/0-heredia-portada.jpg
 shortTitleEsp: casa heredia
 shortTitleEng: heredia house
 address: heredia 986
