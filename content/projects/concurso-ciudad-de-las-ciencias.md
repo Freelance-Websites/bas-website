@@ -1,7 +1,7 @@
 ---
-title: concurso ciudad de las ciencia
+title: concurso ciudad de la ciencia
 thumbnail: /images/0-cdc-portada.jpg
-shortTitleEsp: concurso ciudad de las ciencia
+shortTitleEsp: concurso ciudad de la ciencia
 shortTitleEng: city of science competition
 address: godoy cruz y nicaragua
 locationEsp: palermo, ciudad de buenos aires
