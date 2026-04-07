@@ -7,7 +7,7 @@ address: ""
 locationEsp: La Lucila, Vicente López
 locationEng: La Lucila, Vicente López
 roleEsp: Proyeccto y dirección
-roleEng: "Project "
+roleEng: project
 statusEsp: en construcción
 year: 2025-2026
 order: 1
