@@ -32,7 +32,7 @@ sliderImages:
   - visible: true
     src: /images/terrazamimg.jpg
   - visible: true
-    src: /images/estomba-gallery-8.jpg
+    src: /images/07-est1046-axo-c-final-publicacion.jpg
   - visible: true
     src: /images/estomba-pb.jpg
   - visible: true
