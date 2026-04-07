@@ -1,8 +1,8 @@
 ---
-title: Casa Rawson
+title: Casa La Lucila
 thumbnail: /images/rawson_01.jpg
-shortTitleEsp: Casa Rawson
-shortTitleEng: Rawson House
+shortTitleEsp: Casa La Lucila
+shortTitleEng: La Lucila House
 address: ""
 locationEsp: La Lucila, Vicente López
 locationEng: La Lucila, Vicente López
