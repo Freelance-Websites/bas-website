@@ -1,7 +1,7 @@
 ---
 title: galicia
 thumbnail: /images/0-galicia-portada.jpg
-shortTitleEsp: edificio galicia
+shortTitleEsp: galicia 2323
 shortTitleEng: galicia building
 address: galicia 2323
 locationEsp: paternal, ciudad de buenos aires.
