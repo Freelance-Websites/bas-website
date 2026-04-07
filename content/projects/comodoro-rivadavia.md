@@ -12,8 +12,8 @@ statusEsp: en cotización construcción.
 statusEng: in construction estimation.
 year: 2020 – 2021
 order: 10
-associates: Florencia Oszurkiewicz y Pablo Carracedo.
-collaborators: Alejandro Laurido y Nicolás López.
+associates: Florencia Oszurkiewicz y Pablo Carracedo
+collaborators: Alejandro Laurido y Nicolás López
 sliderImages:
   - src: /images/comodoro-rivadavia-gallery-1.jpg
     visible: true
