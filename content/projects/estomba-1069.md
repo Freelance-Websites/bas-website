@@ -16,13 +16,23 @@ associates: Estudio LABA
 collaborators: Arq. Camila Sanchez Goitia, Arq. Matias Agustín Quintela, Victoria Bikarht
 sliderImages:
   - visible: true
-    src: /images/cam-01_fachada_preliminares_07.jpg
+    src: /images/est1069_01_cam-01_fachada_final_04.jpg
   - visible: true
-    src: /images/est1069_cam-05_desde-el-fondo_preliminares-01.jpg
+    src: /images/est1069_02_cam-01_fachada-nocturna_final_01.jpg
   - visible: true
-    src: /images/est1069_cam-06_palier-pb_preliminares-03.jpg
+    src: /images/est1069_03_cam-01_peatonal-frente_final-04.jpg
   - visible: true
-    src: /images/est1069_cam-07_3amb-contrafrente-02.jpg
+    src: /images/est1069_04_cam-01_palier-pb_final_03.jpg
+  - visible: true
+    src: /images/est1069_05_cam-02_ext-trasera_final-03.jpg
+  - visible: true
+    src: /images/est1069_06_cam-04_palier_final-03.jpg
+  - visible: true
+    src: /images/est1069_07_cam-05_desde-el-pulmon_final_02.jpg
+  - visible: true
+    src: /images/est1069_08_cam-07_3amb-frente_final_03.jpg
+  - visible: true
+    src: /images/est1069_09_cam-08_3amb-ctrafrente_final_03.jpg
   - visible: true
     src: /images/est1069-pb.jpg
   - visible: true
