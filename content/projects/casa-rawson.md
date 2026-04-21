@@ -1,7 +1,7 @@
 ---
-title: casa la lucila
+title: casa en la lucila
 thumbnail: /images/rawson_01.jpg
-shortTitleEsp: casa la lucila
+shortTitleEsp: casa en la lucila
 shortTitleEng: la lucila house
 address: ""
 locationEsp: la lucila, vicente lópez.
