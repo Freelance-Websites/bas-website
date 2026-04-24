@@ -1,4 +1,4 @@
-const Article = ({ firstColumn, secondColumn, associates, collaborators, photos }) => {
+const Article = ({ firstColumn, secondColumn, associates, collaborators, customFields, photos }) => {
   return (
     <article className="container mx-auto">
       <ul className="grid grid-cols-1 gap-0 md:gap-8 lg:gap-12 pt-4 md:pt-8 lg:pt-12 pb-4 md:pb-8 lg:pb-12 xl:pb-24">
@@ -31,12 +31,24 @@ const Article = ({ firstColumn, secondColumn, associates, collaborators, photos 
             <p
               className="text-gray-900 text-md leading-relaxed text-justify"
             >
-              Colaboradores:
+              Equipo de proyecto:
               <br />
               {collaborators}
             </p>
             : ''
           }
+          {customFields && customFields.length > 0 && customFields.map((field, index) =>
+            field && field.title && field.content ?
+              <p
+                className="text-gray-900 text-md leading-relaxed text-justify mt-4 whitespace-pre-line"
+                key={index}
+              >
+                {field.title}:
+                <br />
+                {field.content}
+              </p>
+              : null
+          )}
           {photos ?
             <p
               className="text-gray-900 text-md leading-relaxed text-justify mt-4"

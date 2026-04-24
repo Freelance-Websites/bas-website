@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  # name: git-gateway
+  name: test-repo
   branch: main
 media_folder: "public/images"
 public_folder: "/images"
@@ -24,6 +25,15 @@ collections:
       - {label: "Orden del proyecto", name: "order", widget: "number", min: 1, hint: "El orden del proyecto en la home"}
       - {label: "Asociados", name: "associates", widget: "string", hint: "Arquitectos asociados al proyecto"}
       - {label: "Colaboradores", name: "collaborators", widget: "string", hint: "Colaboradores en el proyecto"}
+      - label: "Campos adicionales"
+        name: "customFields"
+        widget: "list"
+        allow_add: true
+        required: false
+        hint: "Secciones extra con título y contenido personalizados. Podés agregar tantas como quieras."
+        fields:
+          - {label: "Título", name: "title", widget: "string", hint: "El título de esta sección (ej: Superficie, Cliente, Premios, etc.)"}
+          - {label: "Contenido", name: "content", widget: "text", hint: "El texto de esta sección"}
       - {label: "Fotos", name: "photos", widget: "string", hint: "Fotografía (Opcional)", required: false}
       - {label: "Contenido", name: "body", widget: "markdown", hint: "El contenido para el proyecto"}
       - label: "Slider de imágenes"
