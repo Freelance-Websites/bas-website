@@ -14,6 +14,9 @@ year: 2019 – 2022
 order: 5
 associates: Florencia Oszurkiewicz y Pablo Carracedo.
 collaborators: Luis Leoni, Nicolás López, Julia Chiesa, María Bochoeyer.
+customFields:
+  - title: Asesoramiento en iluminación
+    content: Arturo Peruzzotti
 photos: Fernando Schapochnik
 sliderImages:
   - src: /images/olaguer-y-feliu-photos-1.jpg
