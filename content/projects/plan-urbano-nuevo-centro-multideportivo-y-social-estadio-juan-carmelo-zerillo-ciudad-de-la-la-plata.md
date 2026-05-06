@@ -12,9 +12,9 @@ roleEsp: propuesta para el concurso Plan Urbano del Nuevo Centro Multideportivo
 roleEng: competition participation
 year: "2024"
 order: 13
-associates: Estudio LABA - Estudio Futuro (Victoria Cantoli, Analia D´Have)
-collaborators: "Matias Quintela, Camila Sanchez Goitia, Mauro Ariel Romo, Martin
-  Mandilaharzu y Lea Bichon Soustiel "
+associates: Estudio LABA - Estudio Futuro (Arq. Victoria Cantoli, Arq. Analia D´Have)
+collaborators: "Arq. Matias Agustín Quintela, Arq. Camila Sanchez Goitia, Arq.
+  Mauro Ariel Romo, Arq. Martin Mandilaharzu y Arq.Lea Bichon Soustiel "
 sliderImages:
   - visible: true
     src: /images/01.jpg
