@@ -35,6 +35,14 @@ sliderImages:
     src: /images/est1069_09_cam-08_3amb-ctrafrente_final_03.jpg
   - visible: true
     src: /images/est1069_cam-10_3amb-ctrafrente-duplex_final_02.jpg
+  - visible: true
+    src: /images/1-est1069_axo.png
+  - visible: true
+    src: /images/2-est-1069-pb.jpg
+  - visible: true
+    src: /images/2-est-1069-p1.jpg
+  - visible: true
+    src: /images/2-est1069-corte.jpg
 ---
 EL PROYECTO Y LA CIUDAD
 
