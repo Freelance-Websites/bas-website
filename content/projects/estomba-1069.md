@@ -43,6 +43,8 @@ sliderImages:
     src: /images/2-est-1069-p1.jpg
   - visible: true
     src: /images/2-est1069-corte.jpg
+  - visible: true
+    src: /images/2-est1069-fachada.jpg
 ---
 EL PROYECTO Y LA CIUDAD
 
