@@ -23,5 +23,7 @@ sliderImages:
     src: /images/conde_04.jpg
   - visible: true
     src: /images/conde_05.jpg
+  - visible: true
+    src: /images/conde_01.jpg
 ---
 O﻿ficinas Conde
