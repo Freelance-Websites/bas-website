@@ -20,14 +20,12 @@ sliderImages:
   - visible: true
     src: /images/rawson_02.jpg
   - visible: true
-    src: /images/cam01_peatonal-exterior_final_01.jpg
-  - visible: true
     src: /images/cam01_peatonal-exterior_final_02.jpg
   - visible: true
     src: /images/cam03_ingreso-exterior_final_02.jpg
   - visible: true
     src: /images/cam02_patio-de-ingreso_final_01.jpg
   - visible: true
-    src: /images/cam02_patio-de-ingreso_final_01.jpg
+    src: /images/cam04_patio-trasero_final_00.jpg
 ---
  ﻿en proceso.
