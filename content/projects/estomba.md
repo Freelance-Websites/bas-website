@@ -8,19 +8,27 @@ locationEsp: villa ortúzar, ciudad de buenos aires
 locationEng: villa ortúzar, buenos aires city
 roleEsp: proyecto y dirección de obra
 roleEng: project and construction management
-year: 2022-2025
+statusEsp: finalizado
+statusEng: finished
+year: 2022-2026
 order: 6
 associates: Estudio LABA
 collaborators: Arq. Agustina Bozzano, Arq. Camila Sanchez Goitia, María Sol Bochoeyer.
 sliderImages:
   - visible: true
-    src: /images/estomba-gallery-1.jpg
+    src: /images/_mg_7531-copia-4.jpg
   - visible: true
-    src: /images/estomba-gallery-2.jpg
+    src: /images/dsc07450-2-copia.jpg
+  - visible: true
+    src: /images/dsc07393.jpg
+  - visible: true
+    src: /images/estomba-gallery-1.jpg
   - visible: true
     src: /images/estomba-gallery-3.jpg
   - visible: true
     src: /images/estomba-gallery-4.jpg
+  - visible: true
+    src: /images/estomba-gallery-2.jpg
   - visible: true
     src: /images/04b.jpg
   - visible: true
